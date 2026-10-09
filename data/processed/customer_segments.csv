@@ -1,0 +1,1201 @@
+Customer_ID,Last_Order_Date,Frequency,Monetary,Recency,Customer_Name,Gender,Age,City,State,R_Score,F_Score,M_Score,RFM_Score,Segment
+CUST0001,2024-12-26,13,85708.31,6,Rahul Reddy,Male,36,Coimbatore,Tamil Nadu,5,5,3,553,Loyal Customers
+CUST0002,2024-12-23,4,13603.87,9,Arjun Kapoor,Male,30,Lajpat Nagar,Delhi,5,1,1,511,New Customers
+CUST0003,2024-08-14,6,24594.29,140,Anita Sharma,Female,38,Dwarka,Delhi,1,1,1,111,Lost Customers
+CUST0004,2024-09-30,6,163887.07,93,Anil Srivastava,Male,47,Aurangabad,Maharashtra,2,1,4,214,Lost Customers
+CUST0005,2024-12-12,8,71326.52,20,Rakesh Mishra,Male,29,Tiruchirappalli,Tamil Nadu,4,2,2,422,Potential Loyal
+CUST0006,2024-11-22,8,79776.06999999999,40,Priya Gupta,Female,29,Durgapur,West Bengal,4,2,3,423,Potential Loyal
+CUST0007,2024-06-27,3,35693.060000000005,188,Pooja Joshi,Female,47,Ahmedabad,Gujarat,1,1,1,111,Lost Customers
+CUST0008,2024-10-13,11,62021.689999999995,80,Suresh Singh,Male,39,Vadodara,Gujarat,2,4,2,242,At-Risk Customers
+CUST0009,2024-12-05,9,151197.66999999998,27,Anita Tiwari,Female,27,Hyderabad,Telangana,4,3,4,434,Potential Loyal
+CUST0010,2024-10-03,10,21699.66,90,Sunita Kapoor,Female,37,Meerut,Uttar Pradesh,2,4,1,241,At-Risk Customers
+CUST0011,2024-12-13,8,13013.48,19,Komal Joshi,Female,27,New Delhi,Delhi,5,2,1,521,Lost Customers
+CUST0012,2024-09-10,8,77421.12000000001,113,Sachin Patel,Male,27,Chennai,Tamil Nadu,2,2,3,223,Lost Customers
+CUST0013,2024-05-16,6,50174.16,230,Ritu Tiwari,Female,34,Surat,Gujarat,1,1,2,112,Lost Customers
+CUST0014,2024-03-29,6,66324.23999999999,278,Meena Joshi,Female,18,Lucknow,Uttar Pradesh,1,1,2,112,Lost Customers
+CUST0015,2024-06-26,10,72000.83,189,Rakesh Mehta,Male,18,Mangaluru,Karnataka,1,4,2,142,Lost Customers
+CUST0016,2024-11-25,9,401357.5,37,Ritu Kapoor,Female,26,Madurai,Tamil Nadu,4,3,5,435,Potential Loyal
+CUST0017,2024-09-12,10,65867.63,111,Ajay Verma,Male,21,Rajkot,Gujarat,2,4,2,242,At-Risk Customers
+CUST0018,2024-08-19,5,147655.16999999998,135,Sunita Joshi,Female,35,Gwalior,Madhya Pradesh,2,1,4,214,Lost Customers
+CUST0019,2024-12-03,11,40606.15,29,Manoj Iyer,Male,22,Jodhpur,Rajasthan,4,4,2,442,Potential Loyal
+CUST0020,2024-12-04,10,91303.84,28,Pooja Mehta,Female,18,Khammam,Telangana,4,4,3,443,Loyal Customers
+CUST0021,2023-11-04,6,57043.62,424,Komal Mishra,Female,46,Jabalpur,Madhya Pradesh,1,1,2,112,Lost Customers
+CUST0022,2024-10-03,6,21895.18,90,Sneha Kumar,Female,29,Karimnagar,Telangana,2,1,1,211,Lost Customers
+CUST0023,2024-12-06,10,139594.69,26,Amit Singh,Male,32,Mysuru,Karnataka,4,4,4,444,VIP Customers
+CUST0024,2024-11-05,12,244013.25,57,Ankita Patel,Female,18,Asansol,West Bengal,3,5,5,355,Loyal Customers
+CUST0025,2024-06-28,6,85340.52,187,Rekha Reddy,Female,26,Hyderabad,Telangana,1,1,3,113,Lost Customers
+CUST0026,2024-11-30,8,27746.16,32,Rakesh Reddy,Male,33,Ahmedabad,Gujarat,4,3,1,431,Lost Customers
+CUST0027,2024-11-08,10,122670.37,54,Seema Gupta,Female,20,Jaipur,Rajasthan,3,4,4,344,Loyal Customers
+CUST0028,2024-07-31,6,79430.11,154,Rekha Gupta,Female,35,Hyderabad,Telangana,1,1,3,113,Lost Customers
+CUST0029,2024-10-08,9,50017.25,85,Rekha Srivastava,Female,25,Coimbatore,Tamil Nadu,2,3,2,232,At-Risk Customers
+CUST0030,2024-11-19,4,49371.52,43,Neha Kapoor,Female,29,Hyderabad,Telangana,4,1,2,412,New Customers
+CUST0031,2024-07-13,9,169082.95,172,Nisha Sharma,Female,25,Rohini,Delhi,1,3,4,134,Lost Customers
+CUST0032,2024-12-11,9,66701.96,21,Sneha Verma,Female,50,Salem,Tamil Nadu,4,3,2,432,Potential Loyal
+CUST0033,2024-12-19,7,15456.99,13,Vikas Agarwal,Male,31,Lajpat Nagar,Delhi,5,2,1,521,Lost Customers
+CUST0034,2024-04-06,7,117240.23000000001,270,Rohit Agarwal,Male,21,Warangal,Telangana,1,2,3,123,Lost Customers
+CUST0035,2024-12-10,9,109541.64,22,Rekha Srivastava,Female,40,Howrah,West Bengal,4,3,3,433,Potential Loyal
+CUST0036,2024-12-30,9,216684.45,2,Sachin Iyer,Male,19,Rajkot,Gujarat,5,3,5,535,Potential Loyal
+CUST0037,2024-10-02,5,56755.72,91,Kavita Mehta,Female,34,Chennai,Tamil Nadu,2,1,2,212,Lost Customers
+CUST0038,2024-05-30,9,66008.13,216,Priya Jain,Female,18,Warangal,Telangana,1,3,2,132,Lost Customers
+CUST0039,2024-11-17,10,109185.40000000001,45,Rahul Patel,Male,18,Pune,Maharashtra,3,4,3,343,Loyal Customers
+CUST0040,2024-11-09,8,19770.21,53,Amit Pillai,Male,33,Lajpat Nagar,Delhi,3,3,1,331,At-Risk Customers
+CUST0041,2024-12-14,11,227700.22999999998,18,Nitin Agarwal,Male,39,Salem,Tamil Nadu,5,4,5,545,VIP Customers
+CUST0042,2024-12-29,8,163961.61,3,Harish Jain,Male,33,Jodhpur,Rajasthan,5,3,4,534,Potential Loyal
+CUST0043,2024-12-06,5,36713.07,26,Seema Joshi,Female,30,New Delhi,Delhi,4,1,1,411,New Customers
+CUST0044,2024-03-11,6,33504.91,296,Meena Mishra,Female,28,Asansol,West Bengal,1,1,1,111,Lost Customers
+CUST0045,2024-05-23,3,2860.25,223,Arjun Verma,Male,18,Durgapur,West Bengal,1,1,1,111,Lost Customers
+CUST0046,2024-11-17,9,20358.329999999998,45,Ajay Joshi,Male,24,Salem,Tamil Nadu,3,3,1,331,At-Risk Customers
+CUST0047,2024-12-07,10,334531.46,25,Pooja Mishra,Female,27,Hubli,Karnataka,4,4,5,445,VIP Customers
+CUST0048,2024-12-02,7,141402.59,30,Sneha Patel,Female,42,Bikaner,Rajasthan,4,2,4,424,Potential Loyal
+CUST0049,2024-12-28,7,208484.22,4,Amit Kapoor,Male,35,Mumbai,Maharashtra,5,2,5,525,Potential Loyal
+CUST0050,2024-12-15,6,35504.81,17,Sanjay Mishra,Male,18,Kota,Rajasthan,5,1,1,511,New Customers
+CUST0051,2024-08-08,12,280800.19,146,Suresh Verma,Male,35,Mangaluru,Karnataka,1,5,5,155,Loyal Customers
+CUST0052,2024-10-02,6,27817.17,91,Suresh Reddy,Male,28,Udaipur,Rajasthan,2,1,1,211,Lost Customers
+CUST0053,2024-09-05,5,56921.51,118,Shweta Agarwal,Female,25,Mysuru,Karnataka,2,1,2,212,Lost Customers
+CUST0054,2024-12-08,12,75104.08,24,Deepa Verma,Female,38,Ujjain,Madhya Pradesh,4,5,3,453,Loyal Customers
+CUST0055,2024-05-09,5,133684.05000000002,237,Karan Verma,Male,42,Aurangabad,Maharashtra,1,1,4,114,Lost Customers
+CUST0056,2024-11-25,13,220979.37,37,Rekha Malhotra,Female,41,Bengaluru,Karnataka,4,5,5,455,VIP Customers
+CUST0057,2024-10-29,10,108906.98,64,Sanjay Patel,Male,23,Bhopal,Madhya Pradesh,3,4,3,343,Loyal Customers
+CUST0058,2024-11-20,5,17757.16,42,Suresh Singh,Male,28,Indore,Madhya Pradesh,4,1,1,411,New Customers
+CUST0059,2024-08-18,4,21180.79,136,Girish Patel,Male,35,Siliguri,West Bengal,1,1,1,111,Lost Customers
+CUST0060,2024-07-16,3,6583.53,169,Ritu Joshi,Female,41,Surat,Gujarat,1,1,1,111,Lost Customers
+CUST0061,2023-08-01,5,212951.69,519,Geeta Kumar,Female,27,Varanasi,Uttar Pradesh,1,1,5,115,Lost Customers
+CUST0062,2024-09-01,7,64419.66,122,Sunita Sharma,Female,30,Bikaner,Rajasthan,2,2,2,222,Lost Customers
+CUST0063,2024-12-08,8,186293.24,24,Vikas Kapoor,Male,20,Salem,Tamil Nadu,4,3,5,435,Potential Loyal
+CUST0064,2024-12-25,13,43777.81,7,Pooja Rao,Female,20,Dwarka,Delhi,5,5,2,552,Potential Loyal
+CUST0065,2024-10-16,6,90968.87,77,Sona Gupta,Female,40,Bikaner,Rajasthan,2,1,3,213,Lost Customers
+CUST0066,2024-09-03,7,81033.85,120,Ankita Malhotra,Female,45,Aurangabad,Maharashtra,2,2,3,223,Lost Customers
+CUST0067,2024-07-30,15,313388.24,155,Unknown,Female,31,Lucknow,Uttar Pradesh,1,5,5,155,Loyal Customers
+CUST0068,2024-09-26,10,84662.09,97,Rakesh Kumar,Male,42,Agra,Uttar Pradesh,2,4,3,243,Loyal Customers
+CUST0069,2024-11-06,5,29873.809999999998,56,Karan Joshi,Male,35,Meerut,Uttar Pradesh,3,1,1,311,Lost Customers
+CUST0070,2024-11-29,6,274091.71,33,Ritu Verma,Female,25,Saket,Delhi,4,1,5,415,New Customers
+CUST0071,2024-04-27,6,159569.31,249,Anita Sharma,Female,35,Surat,Gujarat,1,1,4,114,Lost Customers
+CUST0072,2024-09-23,11,155594.68,100,Neha Tiwari,Female,47,Karimnagar,Telangana,2,4,4,244,Loyal Customers
+CUST0073,2024-11-21,9,171303.44999999998,41,Arjun Patel,Male,31,Belagavi,Karnataka,4,3,4,434,Potential Loyal
+CUST0074,2024-11-23,9,161139.33000000002,39,Vijay Jain,Male,47,Warangal,Telangana,4,3,4,434,Potential Loyal
+CUST0075,2024-11-16,10,283254.66,46,Pooja Verma,Female,18,Agra,Uttar Pradesh,3,4,5,345,Loyal Customers
+CUST0076,2024-09-21,5,44202.020000000004,102,Unknown,Male,40,Chennai,Tamil Nadu,2,1,2,212,Lost Customers
+CUST0077,2024-09-06,9,201734.3,117,Shweta Mishra,Female,32,Indore,Madhya Pradesh,2,3,5,235,At-Risk Customers
+CUST0078,2024-12-04,9,46041.61,28,Sanjay Gupta,Male,29,Kolkata,West Bengal,4,3,2,432,Potential Loyal
+CUST0079,2024-11-20,8,105681.69,42,Karan Mishra,Male,32,Madurai,Tamil Nadu,4,3,3,433,Potential Loyal
+CUST0080,2024-12-08,5,47388.4,24,Arjun Iyer,Male,18,Nashik,Maharashtra,4,1,2,412,New Customers
+CUST0081,2024-12-13,8,184363.39,19,Deepak Tiwari,Male,29,Vadodara,Gujarat,5,3,5,535,Potential Loyal
+CUST0082,2024-10-23,7,48887.51,70,Ajay Sharma,Male,35,Tiruchirappalli,Tamil Nadu,3,2,2,322,Potential Loyal
+CUST0083,2024-11-30,7,25849.089999999997,32,Ritu Patel,Female,46,Agra,Uttar Pradesh,4,2,1,421,Lost Customers
+CUST0084,2024-10-31,7,38437.78,62,Shweta Pillai,Female,26,Mumbai,Maharashtra,3,2,1,321,Lost Customers
+CUST0085,2024-12-11,9,92713.39,21,Unknown,Female,23,Lucknow,Uttar Pradesh,4,3,3,433,Potential Loyal
+CUST0086,2024-11-23,6,104404.89,39,Girish Mishra,Male,26,Vadodara,Gujarat,4,1,3,413,New Customers
+CUST0087,2024-12-18,6,26229.22,14,Ankita Malhotra,Female,41,Saket,Delhi,5,1,1,511,New Customers
+CUST0088,2024-12-12,11,72154.05,20,Nitin Verma,Male,35,Kolkata,West Bengal,4,4,2,442,Potential Loyal
+CUST0089,2024-11-27,12,61780.33,35,Vijay Mishra,Male,26,Rohini,Delhi,4,5,2,452,Potential Loyal
+CUST0090,2024-11-29,13,62731.369999999995,33,Kavita Nair,Female,37,Nizamabad,Telangana,4,5,2,452,Potential Loyal
+CUST0091,2024-12-24,10,118809.83,8,Asha Iyer,Female,32,Meerut,Uttar Pradesh,5,4,4,544,VIP Customers
+CUST0092,2024-11-03,4,61495.54,59,Deepak Mishra,Male,41,Howrah,West Bengal,3,1,2,312,Lost Customers
+CUST0093,2024-12-25,8,52396.270000000004,7,Geeta Kapoor,Female,24,Nagpur,Maharashtra,5,3,2,532,Potential Loyal
+CUST0094,2024-08-13,8,76565.88,141,Deepa Mishra,Female,28,Ujjain,Madhya Pradesh,1,3,3,133,Lost Customers
+CUST0095,2024-11-15,6,93704.17,47,Divya Tiwari,Female,28,Jodhpur,Rajasthan,3,1,3,313,Lost Customers
+CUST0096,2024-12-21,7,44733.72,11,Neha Patel,Female,18,Meerut,Uttar Pradesh,5,2,2,522,Potential Loyal
+CUST0097,2024-12-19,8,150833.01,13,Sunita Mehta,Female,34,Kanpur,Uttar Pradesh,5,3,4,534,Potential Loyal
+CUST0098,2024-10-18,14,279678.78,75,Rohit Sharma,Male,34,Pune,Maharashtra,2,5,5,255,Loyal Customers
+CUST0099,2024-11-18,6,49004.799999999996,44,Ankita Patel,Female,32,Kota,Rajasthan,3,1,2,312,Lost Customers
+CUST0100,2024-12-14,16,318165.57,18,Suresh Agarwal,Male,29,Howrah,West Bengal,5,5,5,555,VIP Customers
+CUST0101,2024-12-22,7,59849.93,10,Rahul Singh,Male,18,Howrah,West Bengal,5,2,2,522,Potential Loyal
+CUST0102,2024-11-01,12,211365.35,61,Anil Tiwari,Male,27,Aurangabad,Maharashtra,3,5,5,355,Loyal Customers
+CUST0103,2024-10-31,5,125854.04999999999,62,Arjun Tiwari,Male,28,Mangaluru,Karnataka,3,1,4,314,Lost Customers
+CUST0104,2024-11-29,10,112274.4,33,Divya Srivastava,Female,23,Karimnagar,Telangana,4,4,3,443,Loyal Customers
+CUST0105,2024-12-09,10,141297.89,23,Neha Agarwal,Female,30,Udaipur,Rajasthan,4,4,4,444,VIP Customers
+CUST0106,2024-09-09,12,74562.06,114,Nitin Malhotra,Male,36,Jodhpur,Rajasthan,2,5,3,253,Loyal Customers
+CUST0107,2024-12-09,9,103236.29000000001,23,Divya Patel,Female,50,Kanpur,Uttar Pradesh,4,3,3,433,Potential Loyal
+CUST0108,2024-06-11,6,24124.75,204,Asha Pillai,Female,33,Hyderabad,Telangana,1,1,1,111,Lost Customers
+CUST0109,2024-08-30,6,26410.43,124,Rohit Mehta,Male,34,Howrah,West Bengal,2,1,1,211,Lost Customers
+CUST0110,2024-10-20,9,13562.75,73,Vikas Mishra,Male,31,Durgapur,West Bengal,3,3,1,331,At-Risk Customers
+CUST0111,2024-12-30,10,197481.12,2,Seema Verma,Female,18,Tiruchirappalli,Tamil Nadu,5,4,5,545,VIP Customers
+CUST0112,2024-12-11,8,311762.66000000003,21,Komal Sharma,Female,31,Jabalpur,Madhya Pradesh,4,3,5,435,Potential Loyal
+CUST0113,2024-11-14,13,77705.1,48,Priya Rao,Female,32,Varanasi,Uttar Pradesh,3,5,3,353,Loyal Customers
+CUST0114,2024-12-23,8,192321.37999999998,9,Shweta Kapoor,Female,56,Indore,Madhya Pradesh,5,3,5,535,Potential Loyal
+CUST0115,2024-12-02,7,62952.53,30,Sneha Reddy,Female,30,Asansol,West Bengal,4,2,2,422,Potential Loyal
+CUST0116,2024-10-04,6,93331.31,89,Suresh Pillai,Male,35,Howrah,West Bengal,2,1,3,213,Lost Customers
+CUST0117,2024-10-24,13,246031.66,69,Pooja Srivastava,Female,31,Hyderabad,Telangana,3,5,5,355,Loyal Customers
+CUST0118,2024-09-21,5,24295.9,102,Komal Jain,Female,20,Mumbai,Maharashtra,2,1,1,211,Lost Customers
+CUST0119,2024-09-08,8,184656.65,115,Pooja Tiwari,Female,43,Bengaluru,Karnataka,2,3,5,235,At-Risk Customers
+CUST0120,2024-12-09,12,116106.85,23,Geeta Pillai,Female,39,Tiruchirappalli,Tamil Nadu,4,5,3,453,Loyal Customers
+CUST0121,2024-10-31,8,114828.95999999999,62,Asha Iyer,Female,39,Varanasi,Uttar Pradesh,3,3,3,333,Potential Loyal
+CUST0122,2024-12-25,15,265965.33999999997,7,Sunita Agarwal,Female,22,Aurangabad,Maharashtra,5,5,5,555,VIP Customers
+CUST0123,2024-10-09,5,55175.380000000005,84,Vijay Mehta,Male,46,New Delhi,Delhi,2,1,2,212,Lost Customers
+CUST0124,2024-07-12,11,191528.88999999998,173,Ajay Joshi,Male,18,Aurangabad,Maharashtra,1,4,5,145,Loyal Customers
+CUST0125,2024-12-16,4,13380.01,16,Ajay Kumar,Male,37,Jaipur,Rajasthan,5,1,1,511,New Customers
+CUST0126,2024-07-21,15,133169.93,164,Pradeep Reddy,Male,53,Surat,Gujarat,1,5,4,154,Loyal Customers
+CUST0127,2024-10-03,9,154955.07,90,Sanjay Nair,Male,22,Lajpat Nagar,Delhi,2,3,4,234,At-Risk Customers
+CUST0128,2024-09-19,10,182742.03999999998,104,Sachin Jain,Male,26,Asansol,West Bengal,2,4,5,245,Loyal Customers
+CUST0129,2024-07-08,5,168215.63,177,Vikas Jain,Male,32,Chennai,Tamil Nadu,1,1,4,114,Lost Customers
+CUST0130,2024-12-24,8,173127.23,8,Ankita Singh,Female,26,Bhopal,Madhya Pradesh,5,3,4,534,Potential Loyal
+CUST0131,2024-09-08,7,66106.68000000001,115,Shweta Mishra,Female,18,Ahmedabad,Gujarat,2,2,2,222,Lost Customers
+CUST0132,2024-12-11,14,137160.5,21,Priya Mishra,Female,32,Jaipur,Rajasthan,4,5,4,454,VIP Customers
+CUST0133,2024-06-02,9,49705.7,213,Meena Tiwari,Female,21,Mangaluru,Karnataka,1,3,2,132,Lost Customers
+CUST0134,2024-05-10,10,56738.65,236,Anil Reddy,Male,36,Ujjain,Madhya Pradesh,1,4,2,142,Lost Customers
+CUST0135,2024-10-08,5,63445.420000000006,85,Divya Mishra,Female,22,Gwalior,Madhya Pradesh,2,1,2,212,Lost Customers
+CUST0136,2024-11-08,6,36675.1,54,Sneha Patel,Female,47,Varanasi,Uttar Pradesh,3,1,1,311,Lost Customers
+CUST0137,2024-07-25,8,107589.47,160,Pradeep Jain,Male,24,Jabalpur,Madhya Pradesh,1,3,3,133,Lost Customers
+CUST0138,2024-03-12,7,48780.54,295,Priya Agarwal,Female,28,Surat,Gujarat,1,2,2,122,Lost Customers
+CUST0139,2024-12-18,9,25206.48,14,Deepa Rao,Female,40,Agra,Uttar Pradesh,5,3,1,531,Lost Customers
+CUST0140,2024-09-18,7,40237.72,105,Ankita Reddy,Female,19,Hyderabad,Telangana,2,2,2,222,Lost Customers
+CUST0141,2024-12-17,7,64133.5,15,Vikas Mehta,Male,34,Asansol,West Bengal,5,2,2,522,Potential Loyal
+CUST0142,2024-05-22,10,230758.97999999998,224,Manoj Agarwal,Male,45,Jaipur,Rajasthan,1,4,5,145,Loyal Customers
+CUST0143,2024-12-03,7,144062.8,29,Sachin Mehta,Male,18,Howrah,West Bengal,4,2,4,424,Potential Loyal
+CUST0144,2024-12-17,7,41499.18,15,Komal Rao,Female,33,Bikaner,Rajasthan,5,2,2,522,Potential Loyal
+CUST0145,2024-12-18,12,226782.27,14,Seema Kapoor,Female,34,Vadodara,Gujarat,5,5,5,555,VIP Customers
+CUST0146,2023-07-20,3,14092.380000000001,531,Ritu Nair,Female,39,Kanpur,Uttar Pradesh,1,1,1,111,Lost Customers
+CUST0147,2024-11-04,8,179854.17,58,Deepak Pillai,Male,19,Lajpat Nagar,Delhi,3,3,4,334,Potential Loyal
+CUST0148,2024-10-08,10,52466.630000000005,85,Deepak Joshi,Male,18,Udaipur,Rajasthan,2,4,2,242,At-Risk Customers
+CUST0149,2024-11-24,9,61583.33,38,Kavita Joshi,Female,37,Kanpur,Uttar Pradesh,4,3,2,432,Potential Loyal
+CUST0150,2024-08-03,8,156458.66,151,Neha Nair,Female,34,Aurangabad,Maharashtra,1,3,4,134,Lost Customers
+CUST0151,2024-10-18,11,43158.22,75,Nitin Verma,Male,34,Aurangabad,Maharashtra,2,4,2,242,At-Risk Customers
+CUST0152,2024-09-05,14,147802.74,118,Pooja Agarwal,Female,35,New Delhi,Delhi,2,5,4,254,Loyal Customers
+CUST0153,2024-06-28,5,67735.93,187,Nisha Agarwal,Female,25,Udaipur,Rajasthan,1,1,2,112,Lost Customers
+CUST0154,2024-11-18,10,38914.7,44,Amit Reddy,Male,34,Jaipur,Rajasthan,3,4,1,341,At-Risk Customers
+CUST0155,2024-07-14,5,92414.36,171,Suresh Agarwal,Male,34,Lajpat Nagar,Delhi,1,1,3,113,Lost Customers
+CUST0156,2024-10-18,8,74388.43,75,Rohit Kumar,Male,24,Gwalior,Madhya Pradesh,2,3,3,233,At-Risk Customers
+CUST0157,2024-11-29,10,342803.45,33,Ajay Singh,Male,50,Karimnagar,Telangana,4,4,5,445,VIP Customers
+CUST0158,2024-10-25,8,64434.84,68,Anil Iyer,Male,36,Kota,Rajasthan,3,3,2,332,Potential Loyal
+CUST0159,2024-12-13,10,102503.2,19,Komal Mishra,Female,20,Meerut,Uttar Pradesh,5,4,3,543,Loyal Customers
+CUST0160,2024-12-28,10,75298.85,4,Girish Singh,Male,38,Coimbatore,Tamil Nadu,5,4,3,543,Loyal Customers
+CUST0161,2024-12-25,9,84849.56,7,Sunita Gupta,Female,22,Coimbatore,Tamil Nadu,5,3,3,533,Potential Loyal
+CUST0162,2024-11-13,5,266911.07,49,Sanjay Sharma,Male,39,Asansol,West Bengal,3,1,5,315,Lost Customers
+CUST0163,2024-03-16,7,38488.65,291,Sona Verma,Female,43,Madurai,Tamil Nadu,1,2,1,121,Lost Customers
+CUST0164,2024-12-20,14,199511.33000000002,12,Divya Patel,Female,23,Madurai,Tamil Nadu,5,5,5,555,VIP Customers
+CUST0165,2024-08-23,8,41552.3,131,Ramesh Singh,Male,41,Warangal,Telangana,2,3,2,232,At-Risk Customers
+CUST0166,2024-10-25,3,29486.800000000003,68,Nitin Kumar,Male,36,New Delhi,Delhi,3,1,1,311,Lost Customers
+CUST0167,2024-09-25,11,95763.13,98,Sachin Srivastava,Male,40,Gwalior,Madhya Pradesh,2,4,3,243,Loyal Customers
+CUST0168,2024-12-27,8,55973.78,5,Kavita Tiwari,Female,50,Varanasi,Uttar Pradesh,5,3,2,532,Potential Loyal
+CUST0169,2024-09-07,9,107500.19,116,Rekha Kapoor,Female,29,Kota,Rajasthan,2,3,3,233,At-Risk Customers
+CUST0170,2024-10-08,10,154623.97,85,Girish Verma,Male,24,Durgapur,West Bengal,2,4,4,244,Loyal Customers
+CUST0171,2024-12-29,9,152743.56,3,Priya Patel,Female,23,Salem,Tamil Nadu,5,3,4,534,Potential Loyal
+CUST0172,2024-12-12,9,27274.63,20,Nitin Jain,Male,23,Pune,Maharashtra,4,3,1,431,Lost Customers
+CUST0173,2024-05-04,6,40125.740000000005,242,Rekha Tiwari,Female,31,Kanpur,Uttar Pradesh,1,1,1,111,Lost Customers
+CUST0174,2024-12-30,9,112063.88,2,Nisha Patel,Female,35,Udaipur,Rajasthan,5,3,3,533,Potential Loyal
+CUST0175,2024-12-20,5,253789.51,12,Asha Pillai,Female,34,Dwarka,Delhi,5,1,5,515,New Customers
+CUST0176,2024-11-05,6,9753.26,57,Seema Agarwal,Female,40,Varanasi,Uttar Pradesh,3,1,1,311,Lost Customers
+CUST0177,2024-07-18,6,34433.89,167,Pradeep Patel,Male,32,Vadodara,Gujarat,1,1,1,111,Lost Customers
+CUST0178,2024-11-27,5,52074.76,35,Kavita Iyer,Female,46,Hyderabad,Telangana,4,1,2,412,New Customers
+CUST0179,2024-08-24,5,16609.62,130,Seema Verma,Female,29,Salem,Tamil Nadu,2,1,1,211,Lost Customers
+CUST0180,2024-07-28,11,60502.24,157,Ankita Agarwal,Female,59,Jaipur,Rajasthan,1,4,2,142,Lost Customers
+CUST0181,2024-07-07,4,71207.34,178,Nitin Kapoor,Male,38,Hubli,Karnataka,1,1,2,112,Lost Customers
+CUST0182,2024-12-24,7,33976.12,8,Nisha Singh,Female,23,Aurangabad,Maharashtra,5,2,1,521,Lost Customers
+CUST0183,2024-06-15,8,112579.14000000001,200,Sanjay Nair,Male,21,Hyderabad,Telangana,1,3,3,133,Lost Customers
+CUST0184,2024-06-05,11,65531.189999999995,210,Sunita Mehta,Female,36,Saket,Delhi,1,4,2,142,Lost Customers
+CUST0185,2024-11-22,9,34844.4,40,Rohit Agarwal,Male,29,Meerut,Uttar Pradesh,4,3,1,431,Lost Customers
+CUST0186,2024-12-22,13,130837.1,10,Seema Agarwal,Female,39,Jodhpur,Rajasthan,5,5,4,554,VIP Customers
+CUST0187,2024-10-06,11,207788.19,87,Shweta Kumar,Female,36,Howrah,West Bengal,2,4,5,245,Loyal Customers
+CUST0188,2024-12-08,8,101692.39,24,Vikas Reddy,Male,31,Durgapur,West Bengal,4,3,3,433,Potential Loyal
+CUST0189,2024-04-30,4,51969.439999999995,246,Priya Nair,Female,23,Meerut,Uttar Pradesh,1,1,2,112,Lost Customers
+CUST0190,2024-10-18,5,233031.30000000002,75,Pooja Tiwari,Female,18,Karimnagar,Telangana,2,1,5,215,Lost Customers
+CUST0191,2024-12-12,13,86932.04,20,Asha Kapoor,Female,27,Karimnagar,Telangana,4,5,3,453,Loyal Customers
+CUST0192,2024-09-04,14,166038.28,119,Asha Joshi,Female,40,Salem,Tamil Nadu,2,5,4,254,Loyal Customers
+CUST0193,2024-11-17,11,100516.12,45,Sneha Mishra,Female,34,Nagpur,Maharashtra,3,4,3,343,Loyal Customers
+CUST0194,2024-10-28,9,180937.93000000002,65,Geeta Iyer,Female,19,Mangaluru,Karnataka,3,3,4,334,Potential Loyal
+CUST0195,2024-10-21,9,95208.36,72,Rohit Malhotra,Male,33,Gwalior,Madhya Pradesh,3,3,3,333,Potential Loyal
+CUST0196,2024-12-18,10,111842.39,14,Pradeep Singh,Male,35,Karimnagar,Telangana,5,4,3,543,Loyal Customers
+CUST0197,2024-12-28,6,42668.82,4,Rohit Mishra,Male,23,Bengaluru,Karnataka,5,1,2,512,New Customers
+CUST0198,2024-12-12,12,166729.51,20,Ritu Pillai,Female,33,Jabalpur,Madhya Pradesh,4,5,4,454,VIP Customers
+CUST0199,2024-03-22,5,48998.67,285,Karan Kapoor,Male,32,Durgapur,West Bengal,1,1,2,112,Lost Customers
+CUST0200,2024-06-01,4,12799.869999999999,214,Shweta Verma,Female,20,Bhopal,Madhya Pradesh,1,1,1,111,Lost Customers
+CUST0201,2024-10-03,13,140856.06,90,Sachin Mehta,Male,35,Saket,Delhi,2,5,4,254,Loyal Customers
+CUST0202,2024-10-22,6,34087.42,71,Arjun Tiwari,Male,37,Hubli,Karnataka,3,1,1,311,Lost Customers
+CUST0203,2024-12-14,7,306530.52,18,Amit Pillai,Male,42,Nagpur,Maharashtra,5,2,5,525,Potential Loyal
+CUST0204,2024-03-09,6,41717.67,298,Meena Mishra,Female,42,Mysuru,Karnataka,1,1,2,112,Lost Customers
+CUST0205,2024-10-19,4,43972.09,74,Komal Gupta,Female,18,Mysuru,Karnataka,3,1,2,312,Lost Customers
+CUST0206,2024-10-11,9,274848.18,82,Girish Iyer,Male,22,Indore,Madhya Pradesh,2,3,5,235,At-Risk Customers
+CUST0207,2024-11-18,8,45492.78,44,Komal Kumar,Female,37,Tiruchirappalli,Tamil Nadu,3,3,2,332,Potential Loyal
+CUST0208,2024-10-12,5,54378.79,81,Divya Reddy,Female,37,Nashik,Maharashtra,2,1,2,212,Lost Customers
+CUST0209,2024-08-25,9,123583.1,129,Shweta Gupta,Female,37,Saket,Delhi,2,3,4,234,At-Risk Customers
+CUST0210,2024-10-27,11,160965.36000000002,66,Komal Nair,Female,65,Durgapur,West Bengal,3,4,4,344,Loyal Customers
+CUST0211,2024-10-24,7,65762.45,69,Sona Joshi,Female,37,Asansol,West Bengal,3,2,2,322,Potential Loyal
+CUST0212,2024-06-04,9,144835.44,211,Ajay Iyer,Male,43,Gwalior,Madhya Pradesh,1,3,4,134,Lost Customers
+CUST0213,2024-08-28,6,8640.37,126,Sona Sharma,Female,41,Durgapur,West Bengal,2,1,1,211,Lost Customers
+CUST0214,2024-10-05,7,84675.64,88,Harish Verma,Male,38,Jabalpur,Madhya Pradesh,2,2,3,223,Lost Customers
+CUST0215,2024-11-09,8,194678.23,53,Sneha Srivastava,Female,28,Surat,Gujarat,3,3,5,335,Potential Loyal
+CUST0216,2024-12-13,10,82104.65,19,Girish Reddy,Male,39,Bengaluru,Karnataka,5,4,3,543,Loyal Customers
+CUST0217,2024-10-08,7,141526.05,85,Sachin Tiwari,Male,24,Aurangabad,Maharashtra,2,2,4,224,Lost Customers
+CUST0218,2024-12-19,11,181955.47,13,Pooja Patel,Female,29,Agra,Uttar Pradesh,5,4,4,544,VIP Customers
+CUST0219,2024-12-29,7,87249.65,3,Neha Joshi,Female,27,Belagavi,Karnataka,5,2,3,523,Potential Loyal
+CUST0220,2024-10-23,11,186701.45,70,Rekha Malhotra,Female,32,Kanpur,Uttar Pradesh,3,4,5,345,Loyal Customers
+CUST0221,2024-12-26,11,166412.78,6,Nisha Nair,Female,55,Ahmedabad,Gujarat,5,4,4,544,VIP Customers
+CUST0222,2024-12-03,10,242219.46000000002,29,Sunita Kumar,Female,18,Tiruchirappalli,Tamil Nadu,4,4,5,445,VIP Customers
+CUST0223,2024-09-24,8,129731.38,99,Sunita Iyer,Female,38,Nagpur,Maharashtra,2,3,4,234,At-Risk Customers
+CUST0224,2024-10-27,6,13597.45,66,Pradeep Rao,Male,18,Meerut,Uttar Pradesh,3,1,1,311,Lost Customers
+CUST0225,2024-07-22,6,18246.34,163,Meena Singh,Female,27,Tiruchirappalli,Tamil Nadu,1,1,1,111,Lost Customers
+CUST0226,2024-11-19,15,418930.73000000004,43,Girish Kapoor,Male,42,Gandhinagar,Gujarat,4,5,5,455,VIP Customers
+CUST0227,2024-12-12,9,24979.2,20,Vikas Tiwari,Male,32,Varanasi,Uttar Pradesh,4,3,1,431,Lost Customers
+CUST0228,2024-07-16,7,120597.04000000001,169,Rohit Verma,Male,21,Nagpur,Maharashtra,1,2,4,124,Lost Customers
+CUST0229,2024-09-17,8,85723.82,106,Kavita Singh,Female,24,Salem,Tamil Nadu,2,3,3,233,At-Risk Customers
+CUST0230,2024-12-30,15,207847.46999999997,2,Suresh Tiwari,Male,38,Gandhinagar,Gujarat,5,5,5,555,VIP Customers
+CUST0231,2024-11-07,10,133511.01,55,Komal Kumar,Female,24,Kolkata,West Bengal,3,4,4,344,Loyal Customers
+CUST0232,2024-10-13,6,268320.07,80,Ankita Mishra,Female,34,Lucknow,Uttar Pradesh,2,1,5,215,Lost Customers
+CUST0233,2024-11-21,6,107497.45999999999,41,Deepa Tiwari,Female,32,Jodhpur,Rajasthan,4,1,3,413,New Customers
+CUST0234,2024-10-27,6,66331.45,66,Kavita Rao,Female,25,Nizamabad,Telangana,3,1,2,312,Lost Customers
+CUST0235,2024-12-30,17,159150.74000000002,2,Suresh Reddy,Male,53,Chennai,Tamil Nadu,5,5,4,554,VIP Customers
+CUST0236,2024-10-26,10,134685.44,67,Sunita Joshi,Female,38,Bhopal,Madhya Pradesh,3,4,4,344,Loyal Customers
+CUST0237,2024-05-25,9,43929.229999999996,221,Karan Mehta,Male,18,Belagavi,Karnataka,1,3,2,132,Lost Customers
+CUST0238,2024-06-16,4,21854.3,199,Vikas Kapoor,Male,33,Salem,Tamil Nadu,1,1,1,111,Lost Customers
+CUST0239,2024-12-26,11,94720.05,6,Ajay Pillai,Male,25,Belagavi,Karnataka,5,4,3,543,Loyal Customers
+CUST0240,2024-11-27,9,82048.06,35,Nitin Kumar,Male,40,Belagavi,Karnataka,4,3,3,433,Potential Loyal
+CUST0241,2024-12-12,10,60831.3,20,Neha Singh,Female,24,Pune,Maharashtra,4,4,2,442,Potential Loyal
+CUST0242,2024-12-07,8,55959.08,25,Unknown,Male,30,Gwalior,Madhya Pradesh,4,3,2,432,Potential Loyal
+CUST0243,2024-11-15,7,14787.61,47,Sanjay Reddy,Male,37,Pune,Maharashtra,3,2,1,321,Lost Customers
+CUST0244,2024-12-28,9,121705.99,4,Rekha Singh,Female,40,Saket,Delhi,5,3,4,534,Potential Loyal
+CUST0245,2024-05-12,6,28008.84,234,Meena Malhotra,Female,19,Bhopal,Madhya Pradesh,1,1,1,111,Lost Customers
+CUST0246,2024-12-14,7,184055.36,18,Rekha Mehta,Female,28,Bhopal,Madhya Pradesh,5,2,5,525,Potential Loyal
+CUST0247,2024-10-01,10,55334.17,92,Divya Sharma,Female,27,Nashik,Maharashtra,2,4,2,242,At-Risk Customers
+CUST0248,2024-12-19,10,85052.91,13,Seema Singh,Female,25,Kota,Rajasthan,5,4,3,543,Loyal Customers
+CUST0249,2024-09-14,6,146893.31,109,Vikas Pillai,Male,49,Indore,Madhya Pradesh,2,1,4,214,Lost Customers
+CUST0250,2024-06-07,10,174896.34,208,Rohit Reddy,Male,36,Ujjain,Madhya Pradesh,1,4,4,144,Loyal Customers
+CUST0251,2024-12-16,9,173032.22,16,Geeta Srivastava,Female,19,Nizamabad,Telangana,5,3,4,534,Potential Loyal
+CUST0252,2024-03-14,4,42361.47,293,Rekha Srivastava,Female,41,Kolkata,West Bengal,1,1,2,112,Lost Customers
+CUST0253,2024-10-06,10,84187.62000000001,87,Rakesh Joshi,Male,53,Asansol,West Bengal,2,4,3,243,Loyal Customers
+CUST0254,2024-08-04,14,172633.72,150,Ramesh Pillai,Male,42,Kota,Rajasthan,1,5,4,154,Loyal Customers
+CUST0255,2024-11-05,12,163324.05,57,Kavita Pillai,Female,18,Durgapur,West Bengal,3,5,4,354,Loyal Customers
+CUST0256,2024-12-30,8,170615.99,2,Meena Kumar,Female,27,Jaipur,Rajasthan,5,3,4,534,Potential Loyal
+CUST0257,2024-12-31,10,44186.16,1,Vikas Patel,Male,44,Kolkata,West Bengal,5,4,2,542,Potential Loyal
+CUST0258,2024-06-12,7,75918.49,203,Pooja Kapoor,Female,24,Aurangabad,Maharashtra,1,2,3,123,Lost Customers
+CUST0259,2024-11-25,11,98283.15,37,Kavita Mishra,Female,36,Rajkot,Gujarat,4,4,3,443,Loyal Customers
+CUST0260,2024-08-08,5,40877.57,146,Sachin Srivastava,Male,39,Agra,Uttar Pradesh,1,1,2,112,Lost Customers
+CUST0261,2024-04-18,5,27542.440000000002,258,Harish Malhotra,Male,22,Coimbatore,Tamil Nadu,1,1,1,111,Lost Customers
+CUST0262,2024-12-29,11,238016.88,3,Sneha Singh,Female,31,Gandhinagar,Gujarat,5,4,5,545,VIP Customers
+CUST0263,2024-12-20,13,47679.75,12,Kavita Reddy,Female,18,Indore,Madhya Pradesh,5,5,2,552,Potential Loyal
+CUST0264,2024-08-26,5,37042.99,128,Shweta Srivastava,Female,21,Ujjain,Madhya Pradesh,2,1,1,211,Lost Customers
+CUST0265,2024-10-09,7,76377.59,84,Girish Reddy,Male,29,Pune,Maharashtra,2,2,3,223,Lost Customers
+CUST0266,2024-12-29,9,107288.01000000001,3,Sona Pillai,Female,19,Ahmedabad,Gujarat,5,3,3,533,Potential Loyal
+CUST0267,2024-11-04,8,153589.02,58,Rohit Jain,Male,48,Kolkata,West Bengal,3,3,4,334,Potential Loyal
+CUST0268,2024-12-02,10,92585.6,30,Rahul Patel,Male,18,Warangal,Telangana,4,4,3,443,Loyal Customers
+CUST0269,2024-12-24,15,260588.38999999998,8,Seema Tiwari,Female,27,Surat,Gujarat,5,5,5,555,VIP Customers
+CUST0270,2024-12-28,9,23603.18,4,Sona Pillai,Female,33,Ujjain,Madhya Pradesh,5,3,1,531,Lost Customers
+CUST0271,2024-11-11,7,180954.25,51,Amit Kumar,Male,46,Belagavi,Karnataka,3,2,4,324,Potential Loyal
+CUST0272,2023-12-23,5,118240.51,375,Vikas Reddy,Male,18,Kota,Rajasthan,1,1,4,114,Lost Customers
+CUST0273,2024-08-08,4,18931.02,146,Ankita Tiwari,Female,43,Durgapur,West Bengal,1,1,1,111,Lost Customers
+CUST0274,2024-09-08,8,119442.1,115,Anil Singh,Male,32,Rajkot,Gujarat,2,3,4,234,At-Risk Customers
+CUST0275,2024-11-20,9,174992.34,42,Sachin Jain,Male,22,Bikaner,Rajasthan,4,3,4,434,Potential Loyal
+CUST0276,2024-10-26,14,182825.03,67,Anita Mehta,Female,36,Siliguri,West Bengal,3,5,5,355,Loyal Customers
+CUST0277,2024-11-16,11,63793.77,46,Rahul Joshi,Male,33,Kanpur,Uttar Pradesh,3,4,2,342,Potential Loyal
+CUST0278,2024-08-19,7,57697.98,135,Nitin Nair,Male,25,Ahmedabad,Gujarat,2,2,2,222,Lost Customers
+CUST0279,2024-10-25,6,16783.989999999998,68,Manoj Mishra,Male,32,Mysuru,Karnataka,3,1,1,311,Lost Customers
+CUST0280,2024-09-02,12,145173.18,121,Shweta Mehta,Female,28,Khammam,Telangana,2,5,4,254,Loyal Customers
+CUST0281,2024-08-22,9,82216.63,132,Sunita Iyer,Female,33,Nashik,Maharashtra,2,3,3,233,At-Risk Customers
+CUST0282,2024-12-29,7,35235.32,3,Pradeep Patel,Male,38,Gandhinagar,Gujarat,5,2,1,521,Lost Customers
+CUST0283,2024-10-24,8,87608.59999999999,69,Komal Iyer,Female,47,Durgapur,West Bengal,3,3,3,333,Potential Loyal
+CUST0284,2024-12-30,10,74846.4,2,Suresh Sharma,Male,19,Surat,Gujarat,5,4,3,543,Loyal Customers
+CUST0285,2024-12-31,12,93026.81999999999,1,Meena Patel,Female,53,Kolkata,West Bengal,5,5,3,553,Loyal Customers
+CUST0286,2024-09-22,10,153403.38999999998,101,Ramesh Jain,Male,18,Siliguri,West Bengal,2,4,4,244,Loyal Customers
+CUST0287,2024-12-03,7,67381.41,29,Suresh Nair,Male,30,Surat,Gujarat,4,2,2,422,Potential Loyal
+CUST0288,2024-08-21,7,100615.01000000001,133,Neha Patel,Female,37,Hyderabad,Telangana,2,2,3,223,Lost Customers
+CUST0289,2024-12-31,7,167468.49000000002,1,Vijay Rao,Male,34,Mysuru,Karnataka,5,2,4,524,Potential Loyal
+CUST0290,2024-10-24,16,147408.39,69,Rohit Reddy,Male,25,Coimbatore,Tamil Nadu,3,5,4,354,Loyal Customers
+CUST0291,2024-12-04,10,247310.02,28,Vikas Gupta,Male,29,Kota,Rajasthan,4,4,5,445,VIP Customers
+CUST0292,2024-08-27,8,67756.78,127,Komal Srivastava,Female,27,Vadodara,Gujarat,2,3,2,232,At-Risk Customers
+CUST0293,2024-09-26,11,134053.81,97,Pradeep Patel,Male,26,Kota,Rajasthan,2,4,4,244,Loyal Customers
+CUST0294,2024-12-25,9,84823.8,7,Ritu Jain,Female,40,Nagpur,Maharashtra,5,3,3,533,Potential Loyal
+CUST0295,2024-10-28,6,17051.43,65,Sachin Tiwari,Male,35,Jaipur,Rajasthan,3,1,1,311,Lost Customers
+CUST0296,2024-10-03,7,25483.65,90,Vijay Nair,Male,25,New Delhi,Delhi,2,2,1,221,Lost Customers
+CUST0297,2024-11-16,6,237557.69,46,Divya Jain,Female,40,Hyderabad,Telangana,3,1,5,315,Lost Customers
+CUST0298,2024-05-26,5,23848.61,220,Komal Joshi,Female,35,Gandhinagar,Gujarat,1,1,1,111,Lost Customers
+CUST0299,2024-05-27,4,8220.42,219,Rekha Kumar,Female,40,Nashik,Maharashtra,1,1,1,111,Lost Customers
+CUST0300,2024-12-09,8,60082.93,23,Karan Patel,Male,38,Warangal,Telangana,4,3,2,432,Potential Loyal
+CUST0301,2024-04-19,7,160891.06,257,Ajay Tiwari,Male,23,Bikaner,Rajasthan,1,2,4,124,Lost Customers
+CUST0302,2024-11-20,7,302820.1,42,Vijay Rao,Male,26,Varanasi,Uttar Pradesh,4,2,5,425,Potential Loyal
+CUST0303,2024-12-15,10,286177.83,17,Asha Srivastava,Female,39,Nagpur,Maharashtra,5,4,5,545,VIP Customers
+CUST0304,2024-08-30,10,209742.91999999998,124,Karan Singh,Male,38,Karimnagar,Telangana,2,4,5,245,Loyal Customers
+CUST0305,2024-09-02,5,23960.32,121,Ritu Srivastava,Female,31,Hubli,Karnataka,2,1,1,211,Lost Customers
+CUST0306,2024-06-01,7,28855.11,214,Harish Kumar,Male,33,Vadodara,Gujarat,1,2,1,121,Lost Customers
+CUST0307,2024-05-12,6,11059.0,234,Pooja Srivastava,Female,44,Rohini,Delhi,1,1,1,111,Lost Customers
+CUST0308,2024-09-27,5,15504.98,96,Asha Kumar,Female,26,Hyderabad,Telangana,2,1,1,211,Lost Customers
+CUST0309,2024-05-26,5,46432.53,220,Rekha Rao,Female,37,Nagpur,Maharashtra,1,1,2,112,Lost Customers
+CUST0310,2024-12-22,12,260647.88,10,Neha Joshi,Female,29,Rajkot,Gujarat,5,5,5,555,VIP Customers
+CUST0311,2024-12-05,9,43610.979999999996,27,Ajay Kumar,Male,29,Bengaluru,Karnataka,4,3,2,432,Potential Loyal
+CUST0312,2024-09-09,12,133140.54,114,Kavita Malhotra,Female,42,Khammam,Telangana,2,5,4,254,Loyal Customers
+CUST0313,2024-12-24,11,184012.69,8,Karan Srivastava,Male,40,Belagavi,Karnataka,5,4,5,545,VIP Customers
+CUST0314,2024-09-19,4,39366.009999999995,104,Pooja Gupta,Female,40,Belagavi,Karnataka,2,1,1,211,Lost Customers
+CUST0315,2024-12-21,11,75760.11,11,Pradeep Verma,Male,45,Durgapur,West Bengal,5,4,3,543,Loyal Customers
+CUST0316,2024-10-07,15,308045.05,86,Pradeep Srivastava,Male,32,Varanasi,Uttar Pradesh,2,5,5,255,Loyal Customers
+CUST0317,2024-11-20,7,43226.23,42,Rakesh Mehta,Male,38,Varanasi,Uttar Pradesh,4,2,2,422,Potential Loyal
+CUST0318,2024-12-25,13,78394.94,7,Vijay Jain,Male,28,Kota,Rajasthan,5,5,3,553,Loyal Customers
+CUST0319,2024-12-02,8,119307.26,30,Geeta Malhotra,Female,35,Karimnagar,Telangana,4,3,4,434,Potential Loyal
+CUST0320,2024-12-29,6,45516.55,3,Deepak Srivastava,Male,30,Hubli,Karnataka,5,1,2,512,New Customers
+CUST0321,2024-12-10,8,305484.60000000003,22,Manoj Rao,Male,32,Hyderabad,Telangana,4,3,5,435,Potential Loyal
+CUST0322,2024-11-03,12,248693.93,59,Sachin Patel,Male,37,Hubli,Karnataka,3,5,5,355,Loyal Customers
+CUST0323,2024-12-30,9,139335.38,2,Rekha Kumar,Female,23,Kolkata,West Bengal,5,3,4,534,Potential Loyal
+CUST0324,2024-12-21,8,29346.59,11,Pradeep Rao,Male,52,Nashik,Maharashtra,5,3,1,531,Lost Customers
+CUST0325,2024-08-16,4,34311.25,138,Suresh Malhotra,Male,21,Surat,Gujarat,1,1,1,111,Lost Customers
+CUST0326,2024-08-21,9,38639.66,133,Sunita Rao,Female,19,Chennai,Tamil Nadu,2,3,1,231,At-Risk Customers
+CUST0327,2024-10-08,11,59051.7,85,Kavita Pillai,Female,43,Mysuru,Karnataka,2,4,2,242,At-Risk Customers
+CUST0328,2024-12-04,12,97863.18000000001,28,Sachin Agarwal,Male,39,Mangaluru,Karnataka,4,5,3,453,Loyal Customers
+CUST0329,2024-10-10,14,156300.04,83,Ankita Sharma,Female,38,New Delhi,Delhi,2,5,4,254,Loyal Customers
+CUST0330,2024-07-24,3,37806.89,161,Deepa Kumar,Female,38,Khammam,Telangana,1,1,1,111,Lost Customers
+CUST0331,2024-11-11,11,143089.36,51,Kavita Nair,Female,31,Madurai,Tamil Nadu,3,4,4,344,Loyal Customers
+CUST0332,2024-12-21,8,88762.64,11,Amit Mehta,Male,23,Siliguri,West Bengal,5,3,3,533,Potential Loyal
+CUST0333,2024-11-30,8,167452.9,32,Sunita Singh,Female,32,Bikaner,Rajasthan,4,3,4,434,Potential Loyal
+CUST0334,2024-10-16,10,223826.83000000002,77,Anil Jain,Male,25,Coimbatore,Tamil Nadu,2,4,5,245,Loyal Customers
+CUST0335,2024-10-15,8,72792.0,78,Seema Sharma,Female,41,Gwalior,Madhya Pradesh,2,3,2,232,At-Risk Customers
+CUST0336,2024-08-15,7,143217.71,139,Harish Mishra,Male,30,Bengaluru,Karnataka,1,2,4,124,Lost Customers
+CUST0337,2024-10-22,10,179597.97999999998,71,Sunita Malhotra,Female,23,Khammam,Telangana,3,4,4,344,Loyal Customers
+CUST0338,2024-12-14,13,147990.15,18,Suresh Agarwal,Male,28,Nashik,Maharashtra,5,5,4,554,VIP Customers
+CUST0339,2024-12-09,17,197506.62999999998,23,Ritu Sharma,Female,36,Ahmedabad,Gujarat,4,5,5,455,VIP Customers
+CUST0340,2024-11-14,8,129596.11,48,Sneha Singh,Female,26,Gwalior,Madhya Pradesh,3,3,4,334,Potential Loyal
+CUST0341,2024-09-26,9,179440.18,97,Amit Rao,Male,23,Nizamabad,Telangana,2,3,4,234,At-Risk Customers
+CUST0342,2024-12-14,15,205531.67,18,Pradeep Agarwal,Male,34,Mysuru,Karnataka,5,5,5,555,VIP Customers
+CUST0343,2024-09-05,6,20228.190000000002,118,Pradeep Verma,Male,34,Kanpur,Uttar Pradesh,2,1,1,211,Lost Customers
+CUST0344,2024-07-31,5,42928.28,154,Deepak Verma,Male,26,Vadodara,Gujarat,1,1,2,112,Lost Customers
+CUST0345,2024-08-03,10,21002.34,151,Shweta Agarwal,Female,27,Lucknow,Uttar Pradesh,1,4,1,141,Lost Customers
+CUST0346,2024-12-01,8,41903.520000000004,31,Sachin Rao,Male,34,Nagpur,Maharashtra,4,3,2,432,Potential Loyal
+CUST0347,2024-12-25,6,195357.51,7,Kavita Rao,Female,18,Asansol,West Bengal,5,1,5,515,New Customers
+CUST0348,2024-12-11,12,156692.75,21,Geeta Pillai,Female,18,Mangaluru,Karnataka,4,5,4,454,VIP Customers
+CUST0349,2024-10-22,9,93401.28,71,Meena Malhotra,Female,24,Lucknow,Uttar Pradesh,3,3,3,333,Potential Loyal
+CUST0350,2023-11-10,6,112068.38,418,Sunita Mishra,Female,29,Indore,Madhya Pradesh,1,1,3,113,Lost Customers
+CUST0351,2024-08-05,5,26298.620000000003,149,Asha Singh,Female,35,Rohini,Delhi,1,1,1,111,Lost Customers
+CUST0352,2024-12-31,11,96788.93,1,Sona Tiwari,Female,46,Jabalpur,Madhya Pradesh,5,4,3,543,Loyal Customers
+CUST0353,2024-12-16,7,129926.10999999999,16,Pradeep Rao,Male,40,Jaipur,Rajasthan,5,2,4,524,Potential Loyal
+CUST0354,2024-10-21,9,59265.2,72,Ankita Mishra,Female,30,Lucknow,Uttar Pradesh,3,3,2,332,Potential Loyal
+CUST0355,2024-10-20,6,37175.31,73,Suresh Rao,Male,31,Warangal,Telangana,3,1,1,311,Lost Customers
+CUST0356,2024-06-03,9,51638.15,212,Rohit Srivastava,Male,21,Jaipur,Rajasthan,1,3,2,132,Lost Customers
+CUST0357,2024-12-05,10,115265.81000000001,27,Vikas Mehta,Male,31,Vadodara,Gujarat,4,4,3,443,Loyal Customers
+CUST0358,2024-10-23,5,23769.71,70,Komal Verma,Female,29,Indore,Madhya Pradesh,3,1,1,311,Lost Customers
+CUST0359,2024-10-27,5,100745.6,66,Meena Rao,Female,35,Jaipur,Rajasthan,3,1,3,313,Lost Customers
+CUST0360,2024-08-12,7,132435.54,142,Anil Rao,Male,23,Durgapur,West Bengal,1,2,4,124,Lost Customers
+CUST0361,2024-06-27,3,5061.13,188,Sneha Singh,Female,37,Pune,Maharashtra,1,1,1,111,Lost Customers
+CUST0362,2024-10-20,11,167044.16,73,Rekha Iyer,Female,47,Hyderabad,Telangana,3,4,4,344,Loyal Customers
+CUST0363,2024-05-09,5,56238.42,237,Ritu Tiwari,Female,30,Salem,Tamil Nadu,1,1,2,112,Lost Customers
+CUST0364,2024-10-29,11,94066.04,64,Nisha Joshi,Female,36,Dwarka,Delhi,3,4,3,343,Loyal Customers
+CUST0365,2024-12-13,8,128764.94,19,Pradeep Gupta,Male,38,Jaipur,Rajasthan,5,3,4,534,Potential Loyal
+CUST0366,2024-11-17,6,56762.310000000005,45,Meena Patel,Female,27,Khammam,Telangana,3,1,2,312,Lost Customers
+CUST0367,2024-10-18,14,200273.25,75,Sona Gupta,Female,34,Hubli,Karnataka,2,5,5,255,Loyal Customers
+CUST0368,2024-12-20,10,220652.83000000002,12,Arjun Joshi,Male,32,Mysuru,Karnataka,5,4,5,545,VIP Customers
+CUST0369,2024-12-30,11,107415.44,2,Priya Rao,Female,32,Khammam,Telangana,5,4,3,543,Loyal Customers
+CUST0370,2024-09-05,6,208988.25,118,Divya Kapoor,Female,24,Belagavi,Karnataka,2,1,5,215,Lost Customers
+CUST0371,2024-11-08,7,92326.82,54,Vikas Nair,Male,32,Asansol,West Bengal,3,2,3,323,Potential Loyal
+CUST0372,2024-10-04,11,282004.79,89,Seema Jain,Female,36,Dwarka,Delhi,2,4,5,245,Loyal Customers
+CUST0373,2024-09-22,8,51721.350000000006,101,Sunita Tiwari,Female,46,Bikaner,Rajasthan,2,3,2,232,At-Risk Customers
+CUST0374,2024-09-26,5,13566.47,97,Pooja Kapoor,Female,41,Indore,Madhya Pradesh,2,1,1,211,Lost Customers
+CUST0375,2024-10-28,9,27902.190000000002,65,Ramesh Malhotra,Male,53,Mumbai,Maharashtra,3,3,1,331,At-Risk Customers
+CUST0376,2024-08-08,7,16093.35,146,Sachin Gupta,Male,24,Hubli,Karnataka,1,2,1,121,Lost Customers
+CUST0377,2024-12-11,15,421206.89,21,Vijay Malhotra,Male,40,Lucknow,Uttar Pradesh,4,5,5,455,VIP Customers
+CUST0378,2024-12-16,12,37598.23,16,Deepa Kapoor,Female,33,Kanpur,Uttar Pradesh,5,5,1,551,Lost Customers
+CUST0379,2024-12-16,9,237156.03,16,Ankita Kapoor,Female,53,Lajpat Nagar,Delhi,5,3,5,535,Potential Loyal
+CUST0380,2024-09-12,4,49293.34,111,Harish Jain,Male,23,Mysuru,Karnataka,2,1,2,212,Lost Customers
+CUST0381,2024-11-13,14,100842.20999999999,49,Komal Verma,Female,23,Mumbai,Maharashtra,3,5,3,353,Loyal Customers
+CUST0382,2024-11-02,8,251635.41999999998,60,Harish Reddy,Male,26,Salem,Tamil Nadu,3,3,5,335,Potential Loyal
+CUST0383,2024-12-14,13,244761.73,18,Ankita Sharma,Female,18,Bikaner,Rajasthan,5,5,5,555,VIP Customers
+CUST0384,2024-11-04,7,106332.41,58,Sona Agarwal,Female,26,Tiruchirappalli,Tamil Nadu,3,2,3,323,Potential Loyal
+CUST0385,2024-11-09,6,224840.57,53,Divya Patel,Female,24,Pune,Maharashtra,3,1,5,315,Lost Customers
+CUST0386,2024-08-25,8,54727.4,129,Seema Agarwal,Female,33,Jodhpur,Rajasthan,2,3,2,232,At-Risk Customers
+CUST0387,2024-12-27,15,168206.48,5,Ankita Kumar,Female,35,Vadodara,Gujarat,5,5,4,554,VIP Customers
+CUST0388,2024-07-17,8,54859.18,168,Geeta Kumar,Female,50,Gandhinagar,Gujarat,1,3,2,132,Lost Customers
+CUST0389,2023-12-04,7,40918.17,394,Karan Mehta,Male,41,Jaipur,Rajasthan,1,2,2,122,Lost Customers
+CUST0390,2024-07-05,6,45288.85,180,Divya Mehta,Female,26,Bengaluru,Karnataka,1,1,2,112,Lost Customers
+CUST0391,2024-12-28,8,44526.81,4,Sachin Iyer,Male,23,Jabalpur,Madhya Pradesh,5,3,2,532,Potential Loyal
+CUST0392,2024-12-01,11,151733.72,31,Sanjay Pillai,Male,36,Gwalior,Madhya Pradesh,4,4,4,444,VIP Customers
+CUST0393,2024-11-16,14,116510.88,46,Sanjay Agarwal,Male,18,Karimnagar,Telangana,3,5,3,353,Loyal Customers
+CUST0394,2024-09-13,4,191205.72,110,Sona Agarwal,Female,50,Mumbai,Maharashtra,2,1,5,215,Lost Customers
+CUST0395,2024-11-03,10,173667.31,59,Rekha Tiwari,Female,43,Coimbatore,Tamil Nadu,3,4,4,344,Loyal Customers
+CUST0396,2024-07-03,8,33294.04,182,Anita Verma,Female,27,Varanasi,Uttar Pradesh,1,3,1,131,Lost Customers
+CUST0397,2024-12-16,8,49451.729999999996,16,Sona Kapoor,Female,18,Mumbai,Maharashtra,5,3,2,532,Potential Loyal
+CUST0398,2024-12-08,8,30948.01,24,Pooja Reddy,Female,45,Rajkot,Gujarat,4,3,1,431,Lost Customers
+CUST0399,2024-06-27,7,44992.75,188,Anita Iyer,Female,30,Aurangabad,Maharashtra,1,2,2,122,Lost Customers
+CUST0400,2024-11-03,8,76907.98,59,Vijay Kapoor,Male,44,Lucknow,Uttar Pradesh,3,3,3,333,Potential Loyal
+CUST0401,2024-12-21,8,74773.9,11,Rekha Tiwari,Female,18,Nizamabad,Telangana,5,3,3,533,Potential Loyal
+CUST0402,2024-06-23,4,14537.64,192,Rohit Singh,Male,26,Durgapur,West Bengal,1,1,1,111,Lost Customers
+CUST0403,2024-11-12,11,57554.5,50,Unknown,Female,32,Mysuru,Karnataka,3,4,2,342,Potential Loyal
+CUST0404,2024-12-21,12,283690.17,11,Rekha Verma,Female,32,Mumbai,Maharashtra,5,5,5,555,VIP Customers
+CUST0405,2024-11-28,8,185499.53,34,Karan Agarwal,Male,27,Karimnagar,Telangana,4,3,5,435,Potential Loyal
+CUST0406,2024-11-11,9,204412.63999999998,51,Girish Malhotra,Male,38,Hubli,Karnataka,3,3,5,335,Potential Loyal
+CUST0407,2024-12-26,6,103275.01,6,Neha Iyer,Female,21,Gwalior,Madhya Pradesh,5,1,3,513,New Customers
+CUST0408,2024-10-13,10,88644.39,80,Rekha Malhotra,Female,30,Karimnagar,Telangana,2,4,3,243,Loyal Customers
+CUST0409,2024-12-30,8,189863.65,2,Nisha Sharma,Female,33,Vadodara,Gujarat,5,3,5,535,Potential Loyal
+CUST0410,2024-12-10,12,206022.74,22,Ramesh Jain,Male,37,Lucknow,Uttar Pradesh,4,5,5,455,VIP Customers
+CUST0411,2024-10-22,6,16310.69,71,Ritu Jain,Female,39,Indore,Madhya Pradesh,3,1,1,311,Lost Customers
+CUST0412,2024-07-06,11,96539.73,179,Harish Agarwal,Male,20,Belagavi,Karnataka,1,5,3,153,Loyal Customers
+CUST0413,2024-03-10,4,4602.61,297,Pooja Mehta,Female,18,Aurangabad,Maharashtra,1,1,1,111,Lost Customers
+CUST0414,2024-11-23,3,46161.49,39,Deepak Sharma,Male,44,Udaipur,Rajasthan,4,1,2,412,New Customers
+CUST0415,2024-09-21,6,24261.2,102,Pooja Mishra,Female,35,Tiruchirappalli,Tamil Nadu,2,1,1,211,Lost Customers
+CUST0416,2024-12-28,8,62538.93,4,Anita Kumar,Female,24,Warangal,Telangana,5,3,2,532,Potential Loyal
+CUST0417,2024-10-20,8,32364.81,73,Nisha Malhotra,Female,47,Durgapur,West Bengal,3,3,1,331,At-Risk Customers
+CUST0418,2024-12-25,13,296184.54,7,Pradeep Kapoor,Male,33,Gandhinagar,Gujarat,5,5,5,555,VIP Customers
+CUST0419,2024-08-02,11,211568.80000000002,152,Ritu Srivastava,Female,43,Jodhpur,Rajasthan,1,5,5,155,Loyal Customers
+CUST0420,2024-12-09,6,178628.55,23,Nitin Kapoor,Male,32,Kanpur,Uttar Pradesh,4,1,4,414,New Customers
+CUST0421,2024-09-18,5,129631.83999999998,105,Sona Joshi,Female,52,Udaipur,Rajasthan,2,1,4,214,Lost Customers
+CUST0422,2024-10-22,8,33352.86,71,Meena Kapoor,Female,49,Agra,Uttar Pradesh,3,3,1,331,At-Risk Customers
+CUST0423,2024-05-22,6,167788.32,224,Harish Kapoor,Male,29,Asansol,West Bengal,1,1,4,114,Lost Customers
+CUST0424,2024-10-09,12,23569.0,84,Pooja Nair,Female,41,Nagpur,Maharashtra,2,5,1,251,At-Risk Customers
+CUST0425,2024-11-12,9,262064.2,50,Vijay Tiwari,Male,38,Varanasi,Uttar Pradesh,3,3,5,335,Potential Loyal
+CUST0426,2024-11-10,7,52321.29,52,Deepak Kapoor,Male,45,Meerut,Uttar Pradesh,3,2,2,322,Potential Loyal
+CUST0427,2024-08-11,6,45446.68,143,Pooja Singh,Female,22,Ujjain,Madhya Pradesh,1,1,2,112,Lost Customers
+CUST0428,2024-07-07,3,23027.88,178,Ajay Verma,Male,38,Warangal,Telangana,1,1,1,111,Lost Customers
+CUST0429,2024-12-11,7,54042.66,21,Amit Singh,Male,42,Durgapur,West Bengal,4,2,2,422,Potential Loyal
+CUST0430,2024-11-10,15,66687.97,52,Kavita Kumar,Female,18,Aurangabad,Maharashtra,3,5,2,352,Potential Loyal
+CUST0431,2024-07-22,5,14214.5,163,Ramesh Agarwal,Male,20,Jodhpur,Rajasthan,1,1,1,111,Lost Customers
+CUST0432,2024-12-13,15,222219.93,19,Asha Nair,Female,18,Mumbai,Maharashtra,5,5,5,555,VIP Customers
+CUST0433,2024-05-22,9,61253.32,224,Rakesh Verma,Male,29,Mangaluru,Karnataka,1,3,2,132,Lost Customers
+CUST0434,2024-08-14,9,84444.93,140,Amit Iyer,Male,39,Jodhpur,Rajasthan,1,3,3,133,Lost Customers
+CUST0435,2024-11-06,3,103906.76999999999,56,Anita Sharma,Female,47,Meerut,Uttar Pradesh,3,1,3,313,Lost Customers
+CUST0436,2024-09-06,10,84075.98,117,Karan Nair,Male,32,Bikaner,Rajasthan,2,4,3,243,Loyal Customers
+CUST0437,2024-08-17,7,237197.23,137,Pooja Malhotra,Female,48,Udaipur,Rajasthan,1,2,5,125,Lost Customers
+CUST0438,2024-12-20,8,264626.56,12,Arjun Pillai,Male,18,Mangaluru,Karnataka,5,3,5,535,Potential Loyal
+CUST0439,2024-12-20,7,431591.06000000006,12,Neha Sharma,Female,18,Vadodara,Gujarat,5,2,5,525,Potential Loyal
+CUST0440,2024-11-15,14,461583.39,47,Sanjay Srivastava,Male,31,Asansol,West Bengal,3,5,5,355,Loyal Customers
+CUST0441,2024-12-12,9,238783.09,20,Sunita Iyer,Female,35,Dwarka,Delhi,4,3,5,435,Potential Loyal
+CUST0442,2024-09-10,12,91774.94,113,Manoj Pillai,Male,31,Chennai,Tamil Nadu,2,5,3,253,Loyal Customers
+CUST0443,2024-07-12,6,50336.33,173,Geeta Mehta,Female,18,Udaipur,Rajasthan,1,2,2,122,Lost Customers
+CUST0444,2024-11-15,10,114487.40000000002,47,Sona Jain,Female,31,Bhopal,Madhya Pradesh,3,4,3,343,Loyal Customers
+CUST0445,2024-08-02,6,21966.85,152,Meena Mehta,Female,18,Mumbai,Maharashtra,1,2,1,121,Lost Customers
+CUST0446,2024-12-20,5,78238.25,12,Sona Gupta,Female,38,Siliguri,West Bengal,5,1,3,513,New Customers
+CUST0447,2024-10-28,8,30180.22,65,Kavita Nair,Female,35,Gandhinagar,Gujarat,3,3,1,331,At-Risk Customers
+CUST0448,2024-08-19,3,18968.69,135,Ajay Kumar,Male,22,Jodhpur,Rajasthan,2,1,1,211,Lost Customers
+CUST0449,2024-11-28,8,71010.01,34,Ankita Rao,Female,26,Siliguri,West Bengal,4,3,2,432,Potential Loyal
+CUST0450,2024-08-25,11,124876.1,129,Shweta Joshi,Female,21,Salem,Tamil Nadu,2,5,4,254,Loyal Customers
+CUST0451,2024-12-28,9,97998.96,4,Anil Tiwari,Male,31,Nizamabad,Telangana,5,3,3,533,Potential Loyal
+CUST0452,2024-10-12,9,160160.97999999998,81,Harish Singh,Male,41,Aurangabad,Maharashtra,2,3,4,234,At-Risk Customers
+CUST0453,2024-10-16,7,234162.27000000002,77,Harish Kapoor,Male,22,Mysuru,Karnataka,2,2,5,225,Lost Customers
+CUST0454,2024-12-30,7,70895.12,2,Rekha Tiwari,Female,37,Dwarka,Delhi,5,2,2,522,Potential Loyal
+CUST0455,2024-07-14,9,74052.53,171,Sunita Malhotra,Female,26,Jaipur,Rajasthan,1,3,2,132,Lost Customers
+CUST0456,2024-11-03,15,101234.23,59,Pooja Malhotra,Female,24,Asansol,West Bengal,3,5,3,353,Loyal Customers
+CUST0457,2024-08-06,8,173982.65,148,Rakesh Tiwari,Male,30,Lucknow,Uttar Pradesh,1,3,4,134,Lost Customers
+CUST0458,2024-11-07,9,134164.12,55,Ritu Sharma,Female,21,Salem,Tamil Nadu,3,3,4,334,Potential Loyal
+CUST0459,2024-12-20,10,392861.27999999997,12,Amit Mishra,Male,26,Ahmedabad,Gujarat,5,4,5,545,VIP Customers
+CUST0460,2024-10-23,9,124374.83000000002,70,Vikas Agarwal,Male,20,Nagpur,Maharashtra,3,3,4,334,Potential Loyal
+CUST0461,2024-11-09,13,243266.54,53,Neha Kumar,Female,51,Durgapur,West Bengal,3,5,5,355,Loyal Customers
+CUST0462,2024-12-22,10,199522.88,10,Divya Iyer,Female,32,Kolkata,West Bengal,5,4,5,545,VIP Customers
+CUST0463,2024-11-14,9,90729.14,48,Vijay Singh,Male,25,Belagavi,Karnataka,3,3,3,333,Potential Loyal
+CUST0464,2024-11-13,10,214186.41,49,Rekha Kumar,Female,34,Chennai,Tamil Nadu,3,4,5,345,Loyal Customers
+CUST0465,2024-12-08,6,44724.52,24,Sachin Tiwari,Male,30,Karimnagar,Telangana,4,2,2,422,Potential Loyal
+CUST0466,2024-08-29,12,69480.94,125,Sneha Mehta,Female,29,Udaipur,Rajasthan,2,5,2,252,At-Risk Customers
+CUST0467,2024-11-04,6,182436.53,58,Nitin Joshi,Male,38,New Delhi,Delhi,3,2,5,325,Potential Loyal
+CUST0468,2024-12-04,10,223391.15,28,Ankita Sharma,Female,39,Coimbatore,Tamil Nadu,4,4,5,445,VIP Customers
+CUST0469,2024-10-16,13,208492.33000000002,77,Arjun Srivastava,Male,26,Nashik,Maharashtra,2,5,5,255,Loyal Customers
+CUST0470,2024-12-13,17,437078.27999999997,19,Ajay Verma,Male,26,Asansol,West Bengal,5,5,5,555,VIP Customers
+CUST0471,2024-05-16,6,126035.97,230,Rakesh Joshi,Male,29,Pune,Maharashtra,1,2,4,124,Lost Customers
+CUST0472,2024-05-13,7,36955.64,233,Sneha Jain,Female,18,Gandhinagar,Gujarat,1,2,1,121,Lost Customers
+CUST0473,2024-11-13,12,122198.45999999999,49,Sneha Nair,Female,18,Belagavi,Karnataka,3,5,4,354,Loyal Customers
+CUST0474,2024-10-06,4,65264.35,87,Ramesh Nair,Male,45,Lucknow,Uttar Pradesh,2,1,2,212,Lost Customers
+CUST0475,2024-12-01,13,125069.98,31,Ramesh Kapoor,Male,48,Jaipur,Rajasthan,4,5,4,454,VIP Customers
+CUST0476,2024-12-05,8,170595.79,27,Geeta Malhotra,Female,29,Rajkot,Gujarat,4,3,4,434,Potential Loyal
+CUST0477,2024-06-11,12,215145.1,204,Pooja Nair,Female,37,Howrah,West Bengal,1,5,5,155,Loyal Customers
+CUST0478,2024-10-08,9,200737.11000000002,85,Sneha Mehta,Female,35,Kanpur,Uttar Pradesh,2,3,5,235,At-Risk Customers
+CUST0479,2024-12-21,8,7534.5199999999995,11,Anita Kapoor,Female,62,Asansol,West Bengal,5,3,1,531,Lost Customers
+CUST0480,2024-07-26,9,232274.43,159,Suresh Mehta,Male,43,Kanpur,Uttar Pradesh,1,3,5,135,Lost Customers
+CUST0481,2024-07-18,6,31265.05,167,Sunita Tiwari,Female,30,Ahmedabad,Gujarat,1,2,1,121,Lost Customers
+CUST0482,2024-12-16,5,22012.23,16,Amit Reddy,Male,22,Siliguri,West Bengal,5,1,1,511,New Customers
+CUST0483,2024-12-29,8,71420.70999999999,3,Vikas Joshi,Male,18,Ujjain,Madhya Pradesh,5,3,2,532,Potential Loyal
+CUST0484,2024-11-21,8,22139.47,41,Manoj Joshi,Male,34,Vadodara,Gujarat,4,3,1,431,Lost Customers
+CUST0485,2024-12-19,12,102130.95999999999,13,Deepak Joshi,Male,24,Saket,Delhi,5,5,3,553,Loyal Customers
+CUST0486,2024-08-16,7,65315.729999999996,138,Unknown,Male,18,Howrah,West Bengal,1,2,2,122,Lost Customers
+CUST0487,2024-04-10,12,171137.55,266,Sona Iyer,Female,25,Bikaner,Rajasthan,1,5,4,154,Loyal Customers
+CUST0488,2024-11-13,4,12201.19,49,Sona Reddy,Female,21,Gandhinagar,Gujarat,3,1,1,311,Lost Customers
+CUST0489,2024-12-02,10,87388.92,30,Divya Singh,Female,48,Udaipur,Rajasthan,4,4,3,443,Loyal Customers
+CUST0490,2024-12-29,9,104869.69,3,Vijay Pillai,Male,40,Kolkata,West Bengal,5,3,3,533,Potential Loyal
+CUST0491,2024-12-15,12,227027.5,17,Rohit Sharma,Male,31,Meerut,Uttar Pradesh,5,5,5,555,VIP Customers
+CUST0492,2024-12-20,18,321356.56,12,Sona Kumar,Female,46,Madurai,Tamil Nadu,5,5,5,555,VIP Customers
+CUST0493,2024-11-03,9,83669.38,59,Suresh Jain,Male,32,Tiruchirappalli,Tamil Nadu,3,3,3,333,Potential Loyal
+CUST0494,2024-11-08,8,366511.38,54,Ritu Agarwal,Female,23,Kota,Rajasthan,3,3,5,335,Potential Loyal
+CUST0495,2024-11-06,11,87388.86,56,Vijay Gupta,Male,47,Belagavi,Karnataka,3,5,3,353,Loyal Customers
+CUST0496,2024-07-25,7,26136.11,160,Neha Kapoor,Female,37,Aurangabad,Maharashtra,1,2,1,121,Lost Customers
+CUST0497,2024-12-27,7,83650.62,5,Vikas Verma,Male,21,Nashik,Maharashtra,5,2,3,523,Potential Loyal
+CUST0498,2024-12-10,5,57163.560000000005,22,Ajay Patel,Male,30,Bengaluru,Karnataka,4,1,2,412,New Customers
+CUST0499,2024-06-21,10,23167.88,194,Anil Tiwari,Male,23,Ahmedabad,Gujarat,1,4,1,141,Lost Customers
+CUST0500,2024-10-09,9,64539.49,84,Nisha Sharma,Female,18,Aurangabad,Maharashtra,2,3,2,232,At-Risk Customers
+CUST0501,2024-10-19,11,51846.28,74,Priya Sharma,Female,41,Nizamabad,Telangana,3,5,2,352,Potential Loyal
+CUST0502,2024-10-25,10,226840.76,68,Priya Malhotra,Female,51,Howrah,West Bengal,3,4,5,345,Loyal Customers
+CUST0503,2024-10-12,4,16556.989999999998,81,Arjun Malhotra,Male,18,Mysuru,Karnataka,2,1,1,211,Lost Customers
+CUST0504,2024-12-06,8,66662.73,26,Girish Malhotra,Male,37,Agra,Uttar Pradesh,4,3,2,432,Potential Loyal
+CUST0505,2024-08-25,13,128835.81999999999,129,Geeta Patel,Female,25,Rajkot,Gujarat,2,5,4,254,Loyal Customers
+CUST0506,2024-07-19,9,34896.76,166,Komal Mehta,Female,27,Madurai,Tamil Nadu,1,3,1,131,Lost Customers
+CUST0507,2024-11-18,11,68652.98999999999,44,Amit Patel,Male,26,Asansol,West Bengal,3,5,2,352,Potential Loyal
+CUST0508,2024-12-25,10,104164.98,7,Shweta Agarwal,Female,23,Mumbai,Maharashtra,5,4,3,543,Loyal Customers
+CUST0509,2024-11-06,4,19973.07,56,Vikas Agarwal,Male,32,Durgapur,West Bengal,3,1,1,311,Lost Customers
+CUST0510,2024-09-29,10,131997.44,94,Anil Verma,Male,23,Coimbatore,Tamil Nadu,2,4,4,244,Loyal Customers
+CUST0511,2024-12-10,8,142308.71999999997,22,Ritu Verma,Female,34,Rohini,Delhi,4,3,4,434,Potential Loyal
+CUST0512,2024-12-09,5,126830.1,23,Sanjay Pillai,Male,31,Pune,Maharashtra,4,1,4,414,New Customers
+CUST0513,2024-12-17,8,109022.71,15,Suresh Patel,Male,29,Kanpur,Uttar Pradesh,5,3,3,533,Potential Loyal
+CUST0514,2024-12-31,6,125236.62,1,Harish Iyer,Male,22,Nizamabad,Telangana,5,2,4,524,Potential Loyal
+CUST0515,2024-12-14,9,148579.92,18,Pooja Patel,Female,26,Nizamabad,Telangana,5,3,4,534,Potential Loyal
+CUST0516,2024-12-30,12,83422.23,2,Arjun Mishra,Male,39,Chennai,Tamil Nadu,5,5,3,553,Loyal Customers
+CUST0517,2024-07-04,9,195760.06,181,Ankita Srivastava,Female,37,Jabalpur,Madhya Pradesh,1,3,5,135,Lost Customers
+CUST0518,2024-12-13,11,71179.13,19,Priya Reddy,Female,22,Kota,Rajasthan,5,5,2,552,Potential Loyal
+CUST0519,2024-08-12,3,159507.33000000002,142,Vijay Kapoor,Male,32,Asansol,West Bengal,1,1,4,114,Lost Customers
+CUST0520,2024-06-11,5,50776.060000000005,204,Harish Iyer,Male,39,Lajpat Nagar,Delhi,1,1,2,112,Lost Customers
+CUST0521,2024-12-09,4,17775.78,23,Sneha Patel,Female,18,Rohini,Delhi,4,1,1,411,New Customers
+CUST0522,2024-12-15,11,94853.68,17,Suresh Kumar,Male,37,Durgapur,West Bengal,5,5,3,553,Loyal Customers
+CUST0523,2024-11-07,8,269290.12999999995,55,Kavita Patel,Female,25,Nagpur,Maharashtra,3,3,5,335,Potential Loyal
+CUST0524,2024-12-21,15,117928.26,11,Meena Reddy,Female,37,Dwarka,Delhi,5,5,3,553,Loyal Customers
+CUST0525,2024-12-21,10,196908.55,11,Sanjay Mishra,Male,24,Bikaner,Rajasthan,5,4,5,545,VIP Customers
+CUST0526,2024-10-30,9,106416.33,63,Kavita Sharma,Female,18,Rohini,Delhi,3,3,3,333,Potential Loyal
+CUST0527,2024-09-13,5,55489.83,110,Girish Srivastava,Male,18,Rajkot,Gujarat,2,1,2,212,Lost Customers
+CUST0528,2024-10-05,6,124753.54,88,Sachin Mishra,Male,32,Kolkata,West Bengal,2,2,4,224,Lost Customers
+CUST0529,2024-12-17,10,384398.3,15,Harish Malhotra,Male,34,Mangaluru,Karnataka,5,4,5,545,VIP Customers
+CUST0530,2024-12-31,4,73784.04,1,Rohit Reddy,Male,22,Agra,Uttar Pradesh,5,1,2,512,New Customers
+CUST0531,2024-07-10,10,207011.45,175,Pooja Patel,Female,38,Mangaluru,Karnataka,1,4,5,145,Loyal Customers
+CUST0532,2024-09-13,4,83972.87,110,Seema Nair,Female,18,Jaipur,Rajasthan,2,1,3,213,Lost Customers
+CUST0533,2024-06-17,9,168956.23,198,Ritu Mehta,Female,31,Bikaner,Rajasthan,1,3,4,134,Lost Customers
+CUST0534,2024-12-11,14,202625.19999999998,21,Pradeep Singh,Male,19,Hubli,Karnataka,4,5,5,455,VIP Customers
+CUST0535,2024-11-06,11,125858.92,56,Suresh Pillai,Male,25,Jabalpur,Madhya Pradesh,3,5,4,354,Loyal Customers
+CUST0536,2024-09-22,12,161306.91999999998,101,Divya Pillai,Female,32,Siliguri,West Bengal,2,5,4,254,Loyal Customers
+CUST0537,2024-03-18,4,17970.98,289,Sachin Pillai,Male,23,Indore,Madhya Pradesh,1,1,1,111,Lost Customers
+CUST0538,2024-10-18,7,33160.58,75,Asha Gupta,Female,28,Durgapur,West Bengal,2,2,1,221,Lost Customers
+CUST0539,2024-12-10,11,29168.2,22,Nisha Jain,Female,42,Madurai,Tamil Nadu,4,5,1,451,Lost Customers
+CUST0540,2024-11-22,11,48612.84,40,Ritu Iyer,Female,26,Ahmedabad,Gujarat,4,5,2,452,Potential Loyal
+CUST0541,2024-10-26,5,19655.54,67,Unknown,Male,40,Belagavi,Karnataka,3,1,1,311,Lost Customers
+CUST0542,2024-12-28,8,58826.34,4,Pradeep Joshi,Male,20,Udaipur,Rajasthan,5,3,2,532,Potential Loyal
+CUST0543,2024-09-17,13,105429.59,106,Ramesh Agarwal,Male,37,Hubli,Karnataka,2,5,3,253,Loyal Customers
+CUST0544,2024-11-06,7,32131.45,56,Nitin Kumar,Male,46,Asansol,West Bengal,3,2,1,321,Lost Customers
+CUST0545,2024-10-19,15,310475.25,74,Pradeep Srivastava,Male,18,Bikaner,Rajasthan,3,5,5,355,Loyal Customers
+CUST0546,2024-09-11,11,161214.91,112,Shweta Malhotra,Female,24,Siliguri,West Bengal,2,5,4,254,Loyal Customers
+CUST0547,2024-12-14,8,65203.700000000004,18,Vijay Kapoor,Male,37,Bhopal,Madhya Pradesh,5,3,2,532,Potential Loyal
+CUST0548,2024-11-06,4,8148.1,56,Ajay Rao,Male,29,Belagavi,Karnataka,3,1,1,311,Lost Customers
+CUST0549,2024-07-28,7,26831.83,157,Harish Iyer,Male,35,Rajkot,Gujarat,1,2,1,121,Lost Customers
+CUST0550,2024-09-02,9,46977.04,121,Rahul Singh,Male,25,Kanpur,Uttar Pradesh,2,3,2,232,At-Risk Customers
+CUST0551,2024-10-31,8,30113.59,62,Pradeep Rao,Male,32,Asansol,West Bengal,3,3,1,331,At-Risk Customers
+CUST0552,2024-12-13,9,34288.950000000004,19,Vijay Sharma,Male,30,Jaipur,Rajasthan,5,3,1,531,Lost Customers
+CUST0553,2024-08-29,9,40225.97,125,Seema Patel,Female,43,Dwarka,Delhi,2,3,2,232,At-Risk Customers
+CUST0554,2024-12-30,7,63117.600000000006,2,Sona Pillai,Female,34,Jodhpur,Rajasthan,5,2,2,522,Potential Loyal
+CUST0555,2024-11-22,10,317163.45,40,Meena Agarwal,Female,35,Saket,Delhi,4,4,5,445,VIP Customers
+CUST0556,2024-05-26,7,142981.05000000002,220,Asha Patel,Female,27,Lucknow,Uttar Pradesh,1,2,4,124,Lost Customers
+CUST0557,2024-09-16,12,608107.63,107,Rahul Pillai,Male,27,Dwarka,Delhi,2,5,5,255,Loyal Customers
+CUST0558,2024-11-11,6,33413.130000000005,51,Anil Gupta,Male,27,Warangal,Telangana,3,2,1,321,Lost Customers
+CUST0559,2023-08-28,8,31148.96,492,Shweta Mishra,Female,35,Jodhpur,Rajasthan,1,3,1,131,Lost Customers
+CUST0560,2024-11-15,9,59296.01,47,Neha Gupta,Female,27,Asansol,West Bengal,3,3,2,332,Potential Loyal
+CUST0561,2024-12-03,11,39177.67,29,Girish Joshi,Male,34,Bikaner,Rajasthan,4,5,1,451,Lost Customers
+CUST0562,2024-10-05,10,42661.82,88,Geeta Sharma,Female,52,Coimbatore,Tamil Nadu,2,4,2,242,At-Risk Customers
+CUST0563,2024-10-15,8,36392.14,78,Sunita Jain,Female,40,Lajpat Nagar,Delhi,2,3,1,231,At-Risk Customers
+CUST0564,2024-12-16,5,18798.38,16,Vijay Pillai,Male,28,Tiruchirappalli,Tamil Nadu,5,1,1,511,New Customers
+CUST0565,2024-12-16,9,74470.17,16,Nitin Agarwal,Male,44,Nizamabad,Telangana,5,3,3,533,Potential Loyal
+CUST0566,2024-09-17,6,76130.35,106,Ankita Iyer,Female,27,Bhopal,Madhya Pradesh,2,2,3,223,Lost Customers
+CUST0567,2024-11-12,9,77519.76,50,Meena Tiwari,Female,18,Indore,Madhya Pradesh,3,3,3,333,Potential Loyal
+CUST0568,2024-12-23,6,33830.68,9,Ankita Jain,Female,21,Dwarka,Delhi,5,2,1,521,Lost Customers
+CUST0569,2024-08-10,11,219128.59000000003,144,Kavita Mehta,Female,18,Lucknow,Uttar Pradesh,1,5,5,155,Loyal Customers
+CUST0570,2024-07-11,9,164836.69999999998,174,Vijay Kumar,Male,28,Karimnagar,Telangana,1,3,4,134,Lost Customers
+CUST0571,2024-11-11,7,94295.17,51,Ankita Kumar,Female,32,Jabalpur,Madhya Pradesh,3,2,3,323,Potential Loyal
+CUST0572,2024-08-25,11,92782.0,129,Neha Agarwal,Female,48,Warangal,Telangana,2,5,3,253,Loyal Customers
+CUST0573,2024-12-17,6,24163.980000000003,15,Manoj Nair,Male,35,Mysuru,Karnataka,5,2,1,521,Lost Customers
+CUST0574,2024-11-06,10,23957.739999999998,56,Divya Srivastava,Female,29,Nagpur,Maharashtra,3,4,1,341,At-Risk Customers
+CUST0575,2024-09-23,5,41824.49,100,Manoj Kumar,Male,40,Tiruchirappalli,Tamil Nadu,2,1,2,212,Lost Customers
+CUST0576,2024-12-13,7,111642.87,19,Seema Agarwal,Female,18,Asansol,West Bengal,5,2,3,523,Potential Loyal
+CUST0577,2024-11-26,4,76225.61,36,Neha Patel,Female,34,Bhopal,Madhya Pradesh,4,1,3,413,New Customers
+CUST0578,2024-12-21,7,136954.68,11,Sachin Verma,Male,39,Kanpur,Uttar Pradesh,5,2,4,524,Potential Loyal
+CUST0579,2024-11-07,2,7781.11,55,Neha Tiwari,Female,18,Jabalpur,Madhya Pradesh,3,1,1,311,Lost Customers
+CUST0580,2024-08-31,7,33915.69,123,Harish Singh,Male,43,Meerut,Uttar Pradesh,2,2,1,221,Lost Customers
+CUST0581,2024-11-14,9,181995.09,48,Shweta Verma,Female,35,Bikaner,Rajasthan,3,3,4,334,Potential Loyal
+CUST0582,2024-12-11,3,4568.45,21,Ramesh Singh,Male,27,Madurai,Tamil Nadu,4,1,1,411,New Customers
+CUST0583,2024-04-28,8,127841.97,248,Pradeep Reddy,Male,38,Ahmedabad,Gujarat,1,3,4,134,Lost Customers
+CUST0584,2024-11-05,10,118186.7,57,Kavita Mehta,Female,54,Salem,Tamil Nadu,3,4,4,344,Loyal Customers
+CUST0585,2024-10-31,8,72088.92,62,Ankita Mishra,Female,33,Belagavi,Karnataka,3,3,2,332,Potential Loyal
+CUST0586,2024-10-01,10,92023.56,92,Deepak Joshi,Male,34,Aurangabad,Maharashtra,2,4,3,243,Loyal Customers
+CUST0587,2024-12-31,10,146453.59999999998,1,Shweta Reddy,Female,27,Ujjain,Madhya Pradesh,5,4,4,544,VIP Customers
+CUST0588,2024-09-16,6,29761.95,107,Karan Nair,Male,23,Meerut,Uttar Pradesh,2,2,1,221,Lost Customers
+CUST0589,2024-12-05,8,49172.28,27,Rekha Singh,Female,40,Mangaluru,Karnataka,4,3,2,432,Potential Loyal
+CUST0590,2024-11-30,5,79021.69,32,Nitin Kumar,Male,23,Mysuru,Karnataka,4,1,3,413,New Customers
+CUST0591,2024-11-27,8,87351.45999999999,35,Karan Mehta,Male,32,Asansol,West Bengal,4,3,3,433,Potential Loyal
+CUST0592,2024-08-28,13,222083.30000000002,126,Harish Reddy,Male,27,Asansol,West Bengal,2,5,5,255,Loyal Customers
+CUST0593,2024-06-28,6,19831.74,187,Sunita Patel,Female,36,Siliguri,West Bengal,1,2,1,121,Lost Customers
+CUST0594,2024-12-30,7,14330.75,2,Meena Tiwari,Female,35,Udaipur,Rajasthan,5,2,1,521,Lost Customers
+CUST0595,2024-12-08,10,251783.79,24,Vikas Tiwari,Male,42,Ahmedabad,Gujarat,4,4,5,445,VIP Customers
+CUST0596,2024-09-13,9,67852.85,110,Deepa Mishra,Female,26,Tiruchirappalli,Tamil Nadu,2,3,2,232,At-Risk Customers
+CUST0597,2024-04-09,6,86793.68000000001,267,Asha Nair,Female,29,Gandhinagar,Gujarat,1,2,3,123,Lost Customers
+CUST0598,2024-08-14,9,172283.39,140,Harish Agarwal,Male,22,Ahmedabad,Gujarat,1,4,4,144,Loyal Customers
+CUST0599,2024-12-13,9,139012.54,19,Arjun Tiwari,Male,27,Mumbai,Maharashtra,5,4,4,544,VIP Customers
+CUST0600,2024-12-15,13,168113.19999999998,17,Pradeep Tiwari,Male,35,Nashik,Maharashtra,5,5,4,554,VIP Customers
+CUST0601,2024-07-07,8,106959.01000000001,178,Rohit Nair,Male,39,Hubli,Karnataka,1,3,3,133,Lost Customers
+CUST0602,2024-06-07,5,190712.68000000002,208,Vijay Reddy,Male,22,Rohini,Delhi,1,1,5,115,Lost Customers
+CUST0603,2024-12-22,9,156565.88,10,Amit Iyer,Male,40,Kanpur,Uttar Pradesh,5,4,4,544,VIP Customers
+CUST0604,2024-12-29,5,26238.149999999998,3,Sunita Singh,Female,45,Pune,Maharashtra,5,1,1,511,New Customers
+CUST0605,2024-10-03,3,62634.91,90,Sunita Kumar,Female,36,Indore,Madhya Pradesh,2,1,2,212,Lost Customers
+CUST0606,2024-11-10,7,29377.21,52,Priya Sharma,Female,50,Ahmedabad,Gujarat,3,2,1,321,Lost Customers
+CUST0607,2024-09-29,9,239524.93,94,Pooja Agarwal,Female,24,Dwarka,Delhi,2,4,5,245,Loyal Customers
+CUST0608,2024-10-20,14,137762.4,73,Sunita Singh,Female,19,Rohini,Delhi,3,5,4,354,Loyal Customers
+CUST0609,2024-10-16,9,111914.19,77,Sona Kumar,Female,18,Howrah,West Bengal,2,4,3,243,Loyal Customers
+CUST0610,2024-07-28,9,55345.159999999996,157,Vikas Malhotra,Male,46,Bhopal,Madhya Pradesh,1,4,2,142,Lost Customers
+CUST0611,2024-11-19,13,88977.02,43,Pradeep Rao,Male,38,Coimbatore,Tamil Nadu,4,5,3,453,Loyal Customers
+CUST0612,2024-12-27,10,132059.86,5,Ankita Tiwari,Female,31,Chennai,Tamil Nadu,5,4,4,544,VIP Customers
+CUST0613,2024-08-24,10,237211.39,130,Rohit Singh,Male,34,Jabalpur,Madhya Pradesh,2,4,5,245,Loyal Customers
+CUST0614,2024-09-12,6,125010.87,111,Seema Pillai,Female,20,Mysuru,Karnataka,2,2,4,224,Lost Customers
+CUST0615,2024-07-23,4,59177.43,162,Sunita Mehta,Female,56,Khammam,Telangana,1,1,2,112,Lost Customers
+CUST0616,2024-12-24,10,87262.53,8,Priya Nair,Female,33,Salem,Tamil Nadu,5,4,3,543,Loyal Customers
+CUST0617,2024-07-12,7,166337.43,173,Suresh Nair,Male,33,Pune,Maharashtra,1,2,4,124,Lost Customers
+CUST0618,2024-12-29,13,319566.91000000003,3,Geeta Singh,Female,39,Tiruchirappalli,Tamil Nadu,5,5,5,555,VIP Customers
+CUST0619,2024-07-26,10,37750.15,159,Anil Sharma,Male,36,Vadodara,Gujarat,1,4,1,141,Lost Customers
+CUST0620,2024-11-12,13,172716.09,50,Suresh Jain,Male,34,Durgapur,West Bengal,3,5,4,354,Loyal Customers
+CUST0621,2024-11-20,8,134396.79,42,Manoj Patel,Male,24,Aurangabad,Maharashtra,4,3,4,434,Potential Loyal
+CUST0622,2024-12-29,9,207581.22,3,Rahul Reddy,Male,36,Chennai,Tamil Nadu,5,4,5,545,VIP Customers
+CUST0623,2024-10-11,12,340832.73,82,Suresh Malhotra,Male,50,Meerut,Uttar Pradesh,2,5,5,255,Loyal Customers
+CUST0624,2024-12-26,3,18983.57,6,Seema Iyer,Female,45,Lajpat Nagar,Delhi,5,1,1,511,New Customers
+CUST0625,2024-08-19,6,19663.28,135,Nitin Patel,Male,47,Lucknow,Uttar Pradesh,2,2,1,221,Lost Customers
+CUST0626,2024-11-28,10,244296.62999999998,34,Rohit Kapoor,Male,26,Rajkot,Gujarat,4,4,5,445,VIP Customers
+CUST0627,2024-07-09,5,190615.28,176,Sachin Mishra,Male,22,Chennai,Tamil Nadu,1,1,5,115,Lost Customers
+CUST0628,2024-10-21,6,116488.18,72,Vikas Mishra,Male,30,Saket,Delhi,3,2,3,323,Potential Loyal
+CUST0629,2024-07-21,5,55123.32,164,Sachin Gupta,Male,32,New Delhi,Delhi,1,1,2,112,Lost Customers
+CUST0630,2024-10-24,6,100636.34,69,Rahul Gupta,Male,42,Udaipur,Rajasthan,3,2,3,323,Potential Loyal
+CUST0631,2024-08-23,5,44106.01,131,Neha Rao,Female,18,Hubli,Karnataka,2,1,2,212,Lost Customers
+CUST0632,2024-08-18,10,171516.07,136,Rahul Pillai,Male,47,Durgapur,West Bengal,1,4,4,144,Loyal Customers
+CUST0633,2024-10-07,6,197546.47,86,Nitin Jain,Male,30,Saket,Delhi,2,2,5,225,Lost Customers
+CUST0634,2024-12-22,10,187570.12,10,Rekha Rao,Female,27,Nashik,Maharashtra,5,4,5,545,VIP Customers
+CUST0635,2024-09-20,9,77114.68,103,Vijay Gupta,Male,21,Lucknow,Uttar Pradesh,2,4,3,243,Loyal Customers
+CUST0636,2024-09-29,6,175893.45,94,Ajay Malhotra,Male,18,Mumbai,Maharashtra,2,2,4,224,Lost Customers
+CUST0637,2024-11-20,8,119345.93,42,Ajay Verma,Male,40,Udaipur,Rajasthan,4,3,4,434,Potential Loyal
+CUST0638,2024-12-26,10,184402.95,6,Pooja Gupta,Female,32,Aurangabad,Maharashtra,5,4,5,545,VIP Customers
+CUST0639,2024-11-03,5,29804.34,59,Sneha Pillai,Female,19,Tiruchirappalli,Tamil Nadu,3,1,1,311,Lost Customers
+CUST0640,2024-09-06,7,61540.770000000004,117,Ritu Patel,Female,19,Gwalior,Madhya Pradesh,2,2,2,222,Lost Customers
+CUST0641,2024-11-10,4,17059.85,52,Anil Verma,Male,28,Mysuru,Karnataka,3,1,1,311,Lost Customers
+CUST0642,2024-04-27,8,127700.94,249,Suresh Patel,Male,48,Udaipur,Rajasthan,1,3,4,134,Lost Customers
+CUST0643,2024-08-18,6,12162.779999999999,136,Asha Patel,Female,29,Karimnagar,Telangana,1,2,1,121,Lost Customers
+CUST0644,2024-09-17,11,211673.56,106,Vijay Joshi,Male,18,Meerut,Uttar Pradesh,2,5,5,255,Loyal Customers
+CUST0645,2024-12-13,12,165067.99,19,Ankita Mehta,Female,29,Udaipur,Rajasthan,5,5,4,554,VIP Customers
+CUST0646,2024-11-17,7,222143.62,45,Deepa Kapoor,Female,29,Coimbatore,Tamil Nadu,3,2,5,325,Potential Loyal
+CUST0647,2024-08-15,7,106319.60999999999,139,Ramesh Sharma,Male,18,Salem,Tamil Nadu,1,2,3,123,Lost Customers
+CUST0648,2024-10-30,5,23154.14,63,Priya Pillai,Female,31,Nashik,Maharashtra,3,1,1,311,Lost Customers
+CUST0649,2024-12-02,9,143991.05,30,Kavita Joshi,Female,29,Warangal,Telangana,4,4,4,444,VIP Customers
+CUST0650,2024-08-16,9,52687.75,138,Nisha Verma,Female,38,Hubli,Karnataka,1,4,2,142,Lost Customers
+CUST0651,2024-10-27,14,117697.44,66,Amit Mehta,Male,50,Karimnagar,Telangana,3,5,3,353,Loyal Customers
+CUST0652,2024-12-08,4,14834.32,24,Divya Patel,Female,43,Bhopal,Madhya Pradesh,4,1,1,411,New Customers
+CUST0653,2024-03-13,5,117095.25,294,Suresh Patel,Male,29,Ujjain,Madhya Pradesh,1,1,3,113,Lost Customers
+CUST0654,2024-11-27,11,128219.41999999998,35,Ramesh Kumar,Male,20,Madurai,Tamil Nadu,4,5,4,454,VIP Customers
+CUST0655,2024-09-25,9,81864.05,98,Asha Iyer,Female,57,Vadodara,Gujarat,2,4,3,243,Loyal Customers
+CUST0656,2024-01-13,3,16072.43,354,Ritu Mehta,Female,32,Dwarka,Delhi,1,1,1,111,Lost Customers
+CUST0657,2024-11-14,7,118905.79999999999,48,Harish Singh,Male,32,Bengaluru,Karnataka,3,2,4,324,Potential Loyal
+CUST0658,2024-12-20,6,29057.04,12,Pradeep Tiwari,Male,31,Rajkot,Gujarat,5,2,1,521,Lost Customers
+CUST0659,2024-12-18,5,161498.26,14,Rakesh Rao,Male,33,Tiruchirappalli,Tamil Nadu,5,1,4,514,New Customers
+CUST0660,2024-11-19,12,182108.04,43,Divya Reddy,Female,30,New Delhi,Delhi,4,5,5,455,VIP Customers
+CUST0661,2024-08-13,5,11539.830000000002,141,Sachin Srivastava,Male,26,Pune,Maharashtra,1,1,1,111,Lost Customers
+CUST0662,2024-12-05,12,106047.56,27,Pooja Patel,Female,26,Madurai,Tamil Nadu,4,5,3,453,Loyal Customers
+CUST0663,2024-11-13,12,77305.02,49,Rekha Verma,Female,31,Agra,Uttar Pradesh,3,5,3,353,Loyal Customers
+CUST0664,2024-08-30,9,179795.87,124,Rahul Iyer,Male,26,Bikaner,Rajasthan,2,4,4,244,Loyal Customers
+CUST0665,2024-09-10,7,184952.18,113,Arjun Tiwari,Male,24,Dwarka,Delhi,2,2,5,225,Lost Customers
+CUST0666,2024-07-24,6,162039.48,161,Rahul Verma,Male,33,Coimbatore,Tamil Nadu,1,2,4,124,Lost Customers
+CUST0667,2024-12-18,16,158405.63999999998,14,Suresh Rao,Male,29,Lajpat Nagar,Delhi,5,5,4,554,VIP Customers
+CUST0668,2024-08-22,4,13481.38,132,Sunita Sharma,Female,47,Dwarka,Delhi,2,1,1,211,Lost Customers
+CUST0669,2024-12-10,12,267765.54,22,Pooja Patel,Female,18,Ahmedabad,Gujarat,4,5,5,455,VIP Customers
+CUST0670,2024-12-15,13,169275.35,17,Pradeep Verma,Male,42,Belagavi,Karnataka,5,5,4,554,VIP Customers
+CUST0671,2024-11-09,10,266815.0,53,Geeta Agarwal,Female,44,Nashik,Maharashtra,3,4,5,345,Loyal Customers
+CUST0672,2024-12-28,11,240198.61,4,Neha Rao,Female,18,Coimbatore,Tamil Nadu,5,5,5,555,VIP Customers
+CUST0673,2024-10-27,4,12353.02,66,Ritu Tiwari,Female,28,Bengaluru,Karnataka,3,1,1,311,Lost Customers
+CUST0674,2024-11-02,14,340439.86,60,Sachin Agarwal,Male,28,Siliguri,West Bengal,3,5,5,355,Loyal Customers
+CUST0675,2024-11-06,6,100710.70999999999,56,Anita Patel,Female,18,Varanasi,Uttar Pradesh,3,2,3,323,Potential Loyal
+CUST0676,2024-12-08,12,74482.53,24,Ramesh Joshi,Male,24,Warangal,Telangana,4,5,3,453,Loyal Customers
+CUST0677,2024-12-20,11,108764.48999999999,12,Suresh Rao,Male,20,Bikaner,Rajasthan,5,5,3,553,Loyal Customers
+CUST0678,2024-11-28,11,128844.72,34,Meena Jain,Female,49,Nizamabad,Telangana,4,5,4,454,VIP Customers
+CUST0679,2024-07-08,7,35791.63,177,Ritu Gupta,Female,41,Nagpur,Maharashtra,1,2,1,121,Lost Customers
+CUST0680,2024-07-10,6,56031.74,175,Rahul Reddy,Male,44,Nashik,Maharashtra,1,2,2,122,Lost Customers
+CUST0681,2024-10-27,7,23827.76,66,Komal Mehta,Female,39,Bengaluru,Karnataka,3,2,1,321,Lost Customers
+CUST0682,2024-12-05,7,94579.37,27,Ajay Reddy,Male,20,Hyderabad,Telangana,4,2,3,423,Potential Loyal
+CUST0683,2024-10-11,8,102657.84,82,Harish Iyer,Male,26,Surat,Gujarat,2,3,3,233,At-Risk Customers
+CUST0684,2024-12-05,9,150499.59,27,Ajay Jain,Male,36,Vadodara,Gujarat,4,4,4,444,VIP Customers
+CUST0685,2024-11-08,10,28631.170000000002,54,Vijay Jain,Male,19,Indore,Madhya Pradesh,3,4,1,341,At-Risk Customers
+CUST0686,2024-10-19,8,124174.91,74,Manoj Kapoor,Male,39,Kanpur,Uttar Pradesh,3,3,4,334,Potential Loyal
+CUST0687,2024-11-05,10,106062.16,57,Anita Patel,Female,29,Pune,Maharashtra,3,4,3,343,Loyal Customers
+CUST0688,2024-10-17,6,30464.879999999997,76,Rahul Malhotra,Male,28,Jaipur,Rajasthan,2,2,1,221,Lost Customers
+CUST0689,2024-12-15,10,187675.85,17,Ankita Joshi,Female,39,Hubli,Karnataka,5,4,5,545,VIP Customers
+CUST0690,2024-08-23,8,69530.01,131,Karan Verma,Male,36,Pune,Maharashtra,2,3,2,232,At-Risk Customers
+CUST0691,2024-12-13,10,160322.25,19,Arjun Malhotra,Male,28,Ahmedabad,Gujarat,5,4,4,544,VIP Customers
+CUST0692,2024-11-13,8,166836.71000000002,49,Geeta Jain,Female,43,Rohini,Delhi,3,3,4,334,Potential Loyal
+CUST0693,2024-07-07,4,32935.5,178,Asha Kumar,Female,21,Mangaluru,Karnataka,1,1,1,111,Lost Customers
+CUST0694,2024-09-07,10,109110.64,116,Asha Gupta,Female,38,Khammam,Telangana,2,4,3,243,Loyal Customers
+CUST0695,2024-12-09,10,123503.75,23,Unknown,Female,37,Mangaluru,Karnataka,4,4,4,444,VIP Customers
+CUST0696,2024-09-08,8,83087.16,115,Sona Kumar,Female,28,Bengaluru,Karnataka,2,3,3,233,At-Risk Customers
+CUST0697,2024-10-27,9,86869.23000000001,66,Komal Verma,Female,35,Belagavi,Karnataka,3,4,3,343,Loyal Customers
+CUST0698,2024-09-11,15,242360.7,112,Ankita Mehta,Female,19,Bhopal,Madhya Pradesh,2,5,5,255,Loyal Customers
+CUST0699,2024-12-21,13,437702.44999999995,11,Pooja Pillai,Female,41,Dwarka,Delhi,5,5,5,555,VIP Customers
+CUST0700,2024-11-13,7,215843.2,49,Asha Gupta,Female,30,Rohini,Delhi,3,2,5,325,Potential Loyal
+CUST0701,2024-09-17,7,120518.29,106,Priya Reddy,Female,26,Coimbatore,Tamil Nadu,2,2,4,224,Lost Customers
+CUST0702,2024-11-15,8,99207.87,47,Vijay Reddy,Male,42,New Delhi,Delhi,3,3,3,333,Potential Loyal
+CUST0703,2024-12-17,11,179374.65,15,Suresh Tiwari,Male,24,Howrah,West Bengal,5,5,4,554,VIP Customers
+CUST0704,2024-12-17,10,222287.36000000002,15,Nisha Iyer,Female,18,Gandhinagar,Gujarat,5,4,5,545,VIP Customers
+CUST0705,2024-11-08,10,94094.83,54,Kavita Agarwal,Female,18,Indore,Madhya Pradesh,3,4,3,343,Loyal Customers
+CUST0706,2024-08-07,15,104492.58,147,Pradeep Patel,Male,38,Nagpur,Maharashtra,1,5,3,153,Loyal Customers
+CUST0707,2024-11-28,8,130726.7,34,Karan Reddy,Male,19,New Delhi,Delhi,4,3,4,434,Potential Loyal
+CUST0708,2024-10-29,6,23389.46,64,Neha Iyer,Female,49,Bengaluru,Karnataka,3,2,1,321,Lost Customers
+CUST0709,2024-06-06,8,83667.92,209,Karan Srivastava,Male,18,Jabalpur,Madhya Pradesh,1,3,3,133,Lost Customers
+CUST0710,2024-12-24,11,172387.17,8,Ramesh Gupta,Male,48,Jabalpur,Madhya Pradesh,5,5,4,554,VIP Customers
+CUST0711,2024-12-12,6,79189.71,20,Amit Singh,Male,34,Surat,Gujarat,4,2,3,423,Potential Loyal
+CUST0712,2024-12-09,5,201954.4,23,Ramesh Kapoor,Male,31,Nizamabad,Telangana,4,1,5,415,New Customers
+CUST0713,2024-09-17,6,78453.13,106,Sona Mehta,Female,26,New Delhi,Delhi,2,2,3,223,Lost Customers
+CUST0714,2024-11-01,3,4482.26,61,Komal Kapoor,Female,35,Jodhpur,Rajasthan,3,1,1,311,Lost Customers
+CUST0715,2024-08-07,7,29209.9,147,Vijay Sharma,Male,31,Kolkata,West Bengal,1,2,1,121,Lost Customers
+CUST0716,2024-10-02,12,273493.84,91,Ankita Agarwal,Female,43,Chennai,Tamil Nadu,2,5,5,255,Loyal Customers
+CUST0717,2024-12-02,11,30704.28,30,Deepak Gupta,Male,33,Lucknow,Uttar Pradesh,4,5,1,451,Lost Customers
+CUST0718,2024-10-04,8,184502.14,89,Kavita Nair,Female,33,Asansol,West Bengal,2,3,5,235,At-Risk Customers
+CUST0719,2024-02-02,5,158400.27,334,Ritu Patel,Female,28,Karimnagar,Telangana,1,1,4,114,Lost Customers
+CUST0720,2024-11-11,9,80424.43000000001,51,Vijay Iyer,Male,31,Surat,Gujarat,3,4,3,343,Loyal Customers
+CUST0721,2024-11-22,13,183310.38999999998,40,Anita Reddy,Female,35,Kota,Rajasthan,4,5,5,455,VIP Customers
+CUST0722,2024-09-12,6,71568.66,111,Sneha Reddy,Female,18,Bhopal,Madhya Pradesh,2,2,2,222,Lost Customers
+CUST0723,2024-05-24,8,120728.95999999999,222,Arjun Patel,Male,18,Gandhinagar,Gujarat,1,3,4,134,Lost Customers
+CUST0724,2024-12-21,12,250466.5,11,Komal Mehta,Female,39,Hyderabad,Telangana,5,5,5,555,VIP Customers
+CUST0725,2024-06-06,5,105053.73999999999,209,Rekha Mishra,Female,33,Karimnagar,Telangana,1,1,3,113,Lost Customers
+CUST0726,2024-10-14,9,94235.85,79,Manoj Nair,Male,30,Saket,Delhi,2,4,3,243,Loyal Customers
+CUST0727,2024-04-20,2,7704.91,256,Anil Jain,Male,32,Khammam,Telangana,1,1,1,111,Lost Customers
+CUST0728,2024-10-15,2,113968.66,78,Arjun Tiwari,Male,35,Mysuru,Karnataka,2,1,3,213,Lost Customers
+CUST0729,2024-12-08,9,209726.84,24,Deepak Kumar,Male,26,Nashik,Maharashtra,4,4,5,445,VIP Customers
+CUST0730,2024-12-25,7,149129.47,7,Ramesh Joshi,Male,24,Belagavi,Karnataka,5,2,4,524,Potential Loyal
+CUST0731,2024-12-23,9,172688.61,9,Asha Patel,Female,33,Saket,Delhi,5,4,4,544,VIP Customers
+CUST0732,2024-12-18,11,236543.46,14,Shweta Pillai,Female,22,Meerut,Uttar Pradesh,5,5,5,555,VIP Customers
+CUST0733,2024-09-07,7,233578.69999999998,116,Priya Srivastava,Female,36,Ujjain,Madhya Pradesh,2,2,5,225,Lost Customers
+CUST0734,2024-09-17,6,32084.92,106,Kavita Mishra,Female,18,Mysuru,Karnataka,2,2,1,221,Lost Customers
+CUST0735,2024-09-11,12,130768.96,112,Arjun Jain,Male,42,Rohini,Delhi,2,5,4,254,Loyal Customers
+CUST0736,2024-08-29,8,38273.25000000001,125,Seema Reddy,Female,36,Asansol,West Bengal,2,3,1,231,At-Risk Customers
+CUST0737,2024-09-19,7,12397.95,104,Anita Gupta,Female,34,Varanasi,Uttar Pradesh,2,2,1,221,Lost Customers
+CUST0738,2024-10-02,5,21199.86,91,Girish Srivastava,Male,41,Kolkata,West Bengal,2,1,1,211,Lost Customers
+CUST0739,2024-12-30,12,111759.35,2,Asha Mehta,Female,48,Nashik,Maharashtra,5,5,3,553,Loyal Customers
+CUST0740,2024-08-21,9,35810.98,133,Meena Sharma,Female,42,Vadodara,Gujarat,2,4,1,241,At-Risk Customers
+CUST0741,2024-07-03,10,61752.5,182,Ritu Agarwal,Female,18,Dwarka,Delhi,1,4,2,142,Lost Customers
+CUST0742,2024-10-27,13,282517.48,66,Sachin Tiwari,Male,19,Vadodara,Gujarat,3,5,5,355,Loyal Customers
+CUST0743,2024-10-19,5,38572.41,74,Ankita Patel,Female,25,Tiruchirappalli,Tamil Nadu,3,1,1,311,Lost Customers
+CUST0744,2024-12-29,6,40570.01,3,Ramesh Agarwal,Male,32,Nizamabad,Telangana,5,2,2,522,Potential Loyal
+CUST0745,2024-12-29,8,108213.56,3,Anil Gupta,Male,37,Rohini,Delhi,5,3,3,533,Potential Loyal
+CUST0746,2024-07-31,7,15155.68,154,Pooja Malhotra,Female,24,Bhopal,Madhya Pradesh,1,2,1,121,Lost Customers
+CUST0747,2024-09-22,7,48135.76,101,Deepak Joshi,Male,33,Pune,Maharashtra,2,2,2,222,Lost Customers
+CUST0748,2024-05-12,4,72481.02,234,Pradeep Verma,Male,24,Surat,Gujarat,1,1,2,112,Lost Customers
+CUST0749,2024-02-24,3,6150.4,312,Meena Tiwari,Female,25,Karimnagar,Telangana,1,1,1,111,Lost Customers
+CUST0750,2024-12-10,7,170444.76,22,Rahul Mehta,Male,18,Rajkot,Gujarat,4,2,4,424,Potential Loyal
+CUST0751,2024-08-09,6,39093.27,145,Neha Agarwal,Female,22,Ujjain,Madhya Pradesh,1,2,1,121,Lost Customers
+CUST0752,2024-08-30,10,293758.01,124,Meena Gupta,Female,18,Lucknow,Uttar Pradesh,2,4,5,245,Loyal Customers
+CUST0753,2024-07-27,7,72309.73,158,Priya Iyer,Female,22,Pune,Maharashtra,1,2,2,122,Lost Customers
+CUST0754,2024-12-15,9,75341.76,17,Ajay Mehta,Male,42,Madurai,Tamil Nadu,5,4,3,543,Loyal Customers
+CUST0755,2024-12-04,10,144731.9,28,Rekha Sharma,Female,22,Nashik,Maharashtra,4,4,4,444,VIP Customers
+CUST0756,2024-01-07,5,20061.71,360,Sanjay Srivastava,Male,58,Pune,Maharashtra,1,1,1,111,Lost Customers
+CUST0757,2024-12-20,6,91151.54000000001,12,Unknown,Female,36,Varanasi,Uttar Pradesh,5,2,3,523,Potential Loyal
+CUST0758,2024-10-22,6,111483.49,71,Meena Tiwari,Female,33,Kanpur,Uttar Pradesh,3,2,3,323,Potential Loyal
+CUST0759,2024-12-20,9,82703.76,12,Sona Malhotra,Female,23,Jabalpur,Madhya Pradesh,5,4,3,543,Loyal Customers
+CUST0760,2024-12-23,6,11565.259999999998,9,Rahul Malhotra,Male,39,Gandhinagar,Gujarat,5,2,1,521,Lost Customers
+CUST0761,2024-12-23,14,191478.43000000002,9,Sona Singh,Female,26,Jaipur,Rajasthan,5,5,5,555,VIP Customers
+CUST0762,2024-10-05,10,59890.0,88,Ritu Pillai,Female,33,Agra,Uttar Pradesh,2,4,2,242,At-Risk Customers
+CUST0763,2024-11-10,9,194872.74,52,Deepa Kumar,Female,57,Warangal,Telangana,3,4,5,345,Loyal Customers
+CUST0764,2024-10-03,10,110793.46,90,Girish Iyer,Male,31,Surat,Gujarat,2,4,3,243,Loyal Customers
+CUST0765,2024-08-18,8,85894.52,136,Manoj Nair,Male,43,Varanasi,Uttar Pradesh,1,3,3,133,Lost Customers
+CUST0766,2024-08-30,4,49831.85,124,Geeta Verma,Female,24,Ujjain,Madhya Pradesh,2,1,2,212,Lost Customers
+CUST0767,2024-12-05,8,88369.63,27,Karan Mehta,Male,31,Karimnagar,Telangana,4,3,3,433,Potential Loyal
+CUST0768,2024-06-29,9,59104.979999999996,186,Rekha Nair,Female,49,Belagavi,Karnataka,1,4,2,142,Lost Customers
+CUST0769,2024-11-13,4,64706.0,49,Sachin Singh,Male,25,Jodhpur,Rajasthan,3,1,2,312,Lost Customers
+CUST0770,2024-07-08,9,110463.06,177,Shweta Gupta,Female,50,Ahmedabad,Gujarat,1,4,3,143,Loyal Customers
+CUST0771,2024-12-08,8,258308.40999999997,24,Vijay Mehta,Male,39,Varanasi,Uttar Pradesh,4,3,5,435,Potential Loyal
+CUST0772,2024-09-18,9,77560.27,105,Meena Reddy,Female,26,Gwalior,Madhya Pradesh,2,4,3,243,Loyal Customers
+CUST0773,2024-12-07,7,24715.63,25,Kavita Agarwal,Female,38,Aurangabad,Maharashtra,4,2,1,421,Lost Customers
+CUST0774,2023-12-06,3,9948.02,392,Manoj Joshi,Male,41,Hyderabad,Telangana,1,1,1,111,Lost Customers
+CUST0775,2024-12-01,4,38681.87,31,Rekha Nair,Female,38,Kolkata,West Bengal,4,1,1,411,New Customers
+CUST0776,2024-12-29,8,63788.799999999996,3,Rohit Joshi,Male,18,Rajkot,Gujarat,5,3,2,532,Potential Loyal
+CUST0777,2024-07-30,8,78735.36,155,Pooja Pillai,Female,24,Bengaluru,Karnataka,1,3,3,133,Lost Customers
+CUST0778,2024-08-16,9,22482.96,138,Asha Gupta,Female,29,Ahmedabad,Gujarat,1,4,1,141,Lost Customers
+CUST0779,2024-06-21,6,67400.41,194,Unknown,Male,31,Coimbatore,Tamil Nadu,1,2,2,122,Lost Customers
+CUST0780,2024-07-24,9,218834.40000000002,161,Manoj Patel,Male,38,Belagavi,Karnataka,1,4,5,145,Loyal Customers
+CUST0781,2024-10-05,4,70949.05,88,Seema Iyer,Female,33,Asansol,West Bengal,2,1,2,212,Lost Customers
+CUST0782,2024-12-21,10,163930.84,11,Priya Verma,Female,18,Warangal,Telangana,5,4,4,544,VIP Customers
+CUST0783,2024-12-28,11,264840.28,4,Priya Pillai,Female,35,Warangal,Telangana,5,5,5,555,VIP Customers
+CUST0784,2024-10-18,11,193817.39,75,Rahul Mehta,Male,38,Madurai,Tamil Nadu,2,5,5,255,Loyal Customers
+CUST0785,2024-08-04,3,14465.94,150,Pooja Singh,Female,37,Siliguri,West Bengal,1,1,1,111,Lost Customers
+CUST0786,2024-11-06,8,178902.30000000002,56,Neha Patel,Female,42,Nagpur,Maharashtra,3,3,4,334,Potential Loyal
+CUST0787,2024-12-01,7,58153.12,31,Divya Malhotra,Female,40,Ujjain,Madhya Pradesh,4,2,2,422,Potential Loyal
+CUST0788,2024-11-05,8,31009.71,57,Seema Kumar,Female,36,Rajkot,Gujarat,3,3,1,331,At-Risk Customers
+CUST0789,2024-11-15,6,208394.95,47,Deepa Gupta,Female,31,Kolkata,West Bengal,3,2,5,325,Potential Loyal
+CUST0790,2024-08-28,8,85097.75,126,Ajay Kumar,Male,18,Chennai,Tamil Nadu,2,3,3,233,At-Risk Customers
+CUST0791,2024-10-31,7,33278.32,62,Arjun Rao,Male,36,Nashik,Maharashtra,3,2,1,321,Lost Customers
+CUST0792,2024-09-19,7,199185.12,104,Shweta Srivastava,Female,34,Aurangabad,Maharashtra,2,2,5,225,Lost Customers
+CUST0793,2024-11-30,11,91960.23,32,Arjun Sharma,Male,34,Mumbai,Maharashtra,4,5,3,453,Loyal Customers
+CUST0794,2024-11-30,9,124917.79,32,Divya Iyer,Female,19,Lajpat Nagar,Delhi,4,4,4,444,VIP Customers
+CUST0795,2024-08-21,6,135016.51,133,Nisha Kumar,Female,21,Chennai,Tamil Nadu,2,2,4,224,Lost Customers
+CUST0796,2024-12-18,6,49123.05,14,Seema Singh,Female,42,Nizamabad,Telangana,5,2,2,522,Potential Loyal
+CUST0797,2024-11-28,7,118445.0,34,Ramesh Singh,Male,31,Khammam,Telangana,4,2,4,424,Potential Loyal
+CUST0798,2024-10-24,10,24248.35,69,Sachin Singh,Male,38,Saket,Delhi,3,4,1,341,At-Risk Customers
+CUST0799,2024-11-29,5,9103.35,33,Girish Joshi,Male,32,Meerut,Uttar Pradesh,4,1,1,411,New Customers
+CUST0800,2024-11-02,7,88274.70999999999,60,Vijay Mishra,Male,32,Kanpur,Uttar Pradesh,3,2,3,323,Potential Loyal
+CUST0801,2024-03-13,6,64637.4,294,Rakesh Agarwal,Male,41,Tiruchirappalli,Tamil Nadu,1,2,2,122,Lost Customers
+CUST0802,2024-12-15,8,34891.43,17,Sneha Sharma,Female,26,Mumbai,Maharashtra,5,3,1,531,Lost Customers
+CUST0803,2024-08-28,7,23070.25,126,Harish Agarwal,Male,32,Bengaluru,Karnataka,2,2,1,221,Lost Customers
+CUST0804,2024-04-20,8,146621.54,256,Arjun Reddy,Male,27,Tiruchirappalli,Tamil Nadu,1,3,4,134,Lost Customers
+CUST0805,2023-10-18,4,19177.4,441,Ritu Tiwari,Female,27,Mumbai,Maharashtra,1,1,1,111,Lost Customers
+CUST0806,2024-12-09,5,48390.5,23,Amit Nair,Male,28,Vadodara,Gujarat,4,1,2,412,New Customers
+CUST0807,2024-12-27,8,13358.12,5,Kavita Singh,Female,34,Mumbai,Maharashtra,5,3,1,531,Lost Customers
+CUST0808,2024-10-25,10,157727.6,68,Sanjay Pillai,Male,27,Rajkot,Gujarat,3,4,4,344,Loyal Customers
+CUST0809,2024-09-08,7,22309.13,115,Sunita Rao,Female,44,Surat,Gujarat,2,2,1,221,Lost Customers
+CUST0810,2024-11-26,10,96034.92,36,Suresh Iyer,Male,23,Udaipur,Rajasthan,4,4,3,443,Loyal Customers
+CUST0811,2024-12-01,7,56523.009999999995,31,Nisha Mishra,Female,30,Bengaluru,Karnataka,4,2,2,422,Potential Loyal
+CUST0812,2024-12-20,6,60218.12,12,Amit Gupta,Male,27,Saket,Delhi,5,2,2,522,Potential Loyal
+CUST0813,2024-11-20,5,147124.58,42,Komal Tiwari,Female,46,Belagavi,Karnataka,4,1,4,414,New Customers
+CUST0814,2024-06-14,8,23453.85,201,Meena Srivastava,Female,33,Pune,Maharashtra,1,3,1,131,Lost Customers
+CUST0815,2024-06-04,3,19619.65,211,Nisha Singh,Female,42,Asansol,West Bengal,1,1,1,111,Lost Customers
+CUST0816,2024-12-21,11,47154.69,11,Vikas Reddy,Male,18,Ahmedabad,Gujarat,5,5,2,552,Potential Loyal
+CUST0817,2024-11-27,11,135693.79,35,Karan Malhotra,Male,34,Khammam,Telangana,4,5,4,454,VIP Customers
+CUST0818,2024-05-01,6,28155.190000000002,245,Ramesh Mehta,Male,40,Udaipur,Rajasthan,1,2,1,121,Lost Customers
+CUST0819,2024-08-02,5,57871.13,152,Pooja Kapoor,Female,32,Bhopal,Madhya Pradesh,1,1,2,112,Lost Customers
+CUST0820,2024-12-10,9,194824.16999999998,22,Sanjay Malhotra,Male,42,Kota,Rajasthan,4,4,5,445,VIP Customers
+CUST0821,2024-07-08,7,176991.19,177,Vikas Agarwal,Male,26,Surat,Gujarat,1,2,4,124,Lost Customers
+CUST0822,2024-12-04,12,215133.28,28,Ritu Verma,Female,46,Warangal,Telangana,4,5,5,455,VIP Customers
+CUST0823,2024-11-18,6,67572.76,44,Geeta Mehta,Female,54,Saket,Delhi,3,2,2,322,Potential Loyal
+CUST0824,2024-10-14,4,162093.49,79,Komal Tiwari,Female,28,Saket,Delhi,2,1,4,214,Lost Customers
+CUST0825,2024-08-10,6,74240.85,144,Asha Singh,Female,27,Jaipur,Rajasthan,1,2,3,123,Lost Customers
+CUST0826,2024-12-11,5,71190.54,21,Suresh Mishra,Male,46,Aurangabad,Maharashtra,4,1,2,412,New Customers
+CUST0827,2024-10-29,10,38204.28,64,Vikas Srivastava,Male,47,Gwalior,Madhya Pradesh,3,4,1,341,At-Risk Customers
+CUST0828,2024-12-02,7,454788.25,30,Pradeep Pillai,Male,26,Ahmedabad,Gujarat,4,2,5,425,Potential Loyal
+CUST0829,2024-10-28,8,113341.3,65,Pradeep Pillai,Male,27,Khammam,Telangana,3,3,3,333,Potential Loyal
+CUST0830,2024-07-20,9,105513.16,165,Meena Tiwari,Female,29,New Delhi,Delhi,1,4,3,143,Loyal Customers
+CUST0831,2024-12-22,8,269794.67,10,Rahul Pillai,Male,18,Vadodara,Gujarat,5,3,5,535,Potential Loyal
+CUST0832,2024-12-12,9,70727.46,20,Kavita Verma,Female,22,Mangaluru,Karnataka,4,4,2,442,Potential Loyal
+CUST0833,2024-11-05,7,196931.73,57,Ramesh Singh,Male,21,Meerut,Uttar Pradesh,3,2,5,325,Potential Loyal
+CUST0834,2024-07-17,10,172025.03,168,Deepak Singh,Male,24,Howrah,West Bengal,1,4,4,144,Loyal Customers
+CUST0835,2024-11-23,9,365773.48,39,Deepa Pillai,Female,31,Saket,Delhi,4,4,5,445,VIP Customers
+CUST0836,2024-09-26,11,89487.09999999999,97,Harish Singh,Male,34,Kota,Rajasthan,2,5,3,253,Loyal Customers
+CUST0837,2024-10-10,13,125774.43000000001,83,Manoj Sharma,Male,47,Hyderabad,Telangana,2,5,4,254,Loyal Customers
+CUST0838,2024-05-31,5,14018.97,215,Komal Agarwal,Female,22,Warangal,Telangana,1,1,1,111,Lost Customers
+CUST0839,2024-12-19,10,76287.79000000001,13,Rohit Singh,Male,41,Siliguri,West Bengal,5,4,3,543,Loyal Customers
+CUST0840,2024-10-24,7,121117.37,69,Rekha Iyer,Female,29,Siliguri,West Bengal,3,2,4,324,Potential Loyal
+CUST0841,2024-09-25,8,55119.01,98,Nitin Iyer,Male,31,Vadodara,Gujarat,2,3,2,232,At-Risk Customers
+CUST0842,2024-06-27,8,57901.79,188,Pooja Kumar,Female,38,Siliguri,West Bengal,1,3,2,132,Lost Customers
+CUST0843,2024-12-26,11,36229.95,6,Shweta Pillai,Female,20,Warangal,Telangana,5,5,1,551,Lost Customers
+CUST0844,2024-12-16,8,26828.11,16,Deepak Srivastava,Male,35,Agra,Uttar Pradesh,5,3,1,531,Lost Customers
+CUST0845,2024-12-14,6,82578.64,18,Sanjay Malhotra,Male,33,Nizamabad,Telangana,5,2,3,523,Potential Loyal
+CUST0846,2024-09-24,14,115347.44,99,Vijay Kapoor,Male,36,Bikaner,Rajasthan,2,5,3,253,Loyal Customers
+CUST0847,2024-12-01,15,241315.28,31,Shweta Nair,Female,34,Kolkata,West Bengal,4,5,5,455,VIP Customers
+CUST0848,2024-08-27,11,145560.85,127,Rahul Iyer,Male,56,Bengaluru,Karnataka,2,5,4,254,Loyal Customers
+CUST0849,2024-12-12,13,152198.22,20,Deepak Reddy,Male,25,Hubli,Karnataka,4,5,4,454,VIP Customers
+CUST0850,2024-12-07,8,228350.37000000002,25,Pooja Verma,Female,26,Kanpur,Uttar Pradesh,4,3,5,435,Potential Loyal
+CUST0851,2024-09-06,6,48191.22,117,Vijay Tiwari,Male,25,Lajpat Nagar,Delhi,2,2,2,222,Lost Customers
+CUST0852,2024-08-12,9,104958.09999999999,142,Rakesh Iyer,Male,26,Salem,Tamil Nadu,1,4,3,143,Loyal Customers
+CUST0853,2024-10-29,8,264077.33,64,Unknown,Female,25,Asansol,West Bengal,3,3,5,335,Potential Loyal
+CUST0854,2024-12-09,5,36601.47,23,Shweta Verma,Female,43,Nagpur,Maharashtra,4,1,1,411,New Customers
+CUST0855,2023-10-13,6,154960.06,446,Girish Tiwari,Male,46,Madurai,Tamil Nadu,1,2,4,124,Lost Customers
+CUST0856,2024-11-29,14,76749.91,33,Deepak Nair,Male,26,Jodhpur,Rajasthan,4,5,3,453,Loyal Customers
+CUST0857,2024-11-15,11,230360.59000000003,47,Sanjay Gupta,Male,23,Hyderabad,Telangana,3,5,5,355,Loyal Customers
+CUST0858,2024-09-29,8,91848.01,94,Anita Mishra,Female,36,Meerut,Uttar Pradesh,2,3,3,233,At-Risk Customers
+CUST0859,2024-08-28,11,153017.77,126,Pooja Gupta,Female,26,Gwalior,Madhya Pradesh,2,5,4,254,Loyal Customers
+CUST0860,2023-12-16,7,125843.03,382,Karan Tiwari,Male,38,Bengaluru,Karnataka,1,2,4,124,Lost Customers
+CUST0861,2024-12-31,6,25374.2,1,Karan Srivastava,Male,34,Aurangabad,Maharashtra,5,2,1,521,Lost Customers
+CUST0862,2024-12-04,8,218235.0,28,Nisha Jain,Female,18,Nizamabad,Telangana,4,3,5,435,Potential Loyal
+CUST0863,2024-07-06,12,98498.76,179,Karan Malhotra,Male,47,Coimbatore,Tamil Nadu,1,5,3,153,Loyal Customers
+CUST0864,2024-11-23,7,119637.51000000001,39,Anil Gupta,Male,49,Siliguri,West Bengal,4,2,4,424,Potential Loyal
+CUST0865,2024-12-03,12,286937.01,29,Sunita Rao,Female,25,Coimbatore,Tamil Nadu,4,5,5,455,VIP Customers
+CUST0866,2024-12-03,4,108799.75,29,Asha Rao,Female,28,Kanpur,Uttar Pradesh,4,1,3,413,New Customers
+CUST0867,2024-12-05,7,22194.05,27,Shweta Sharma,Female,34,Rohini,Delhi,4,2,1,421,Lost Customers
+CUST0868,2024-12-30,7,73637.34,2,Sneha Srivastava,Female,35,Indore,Madhya Pradesh,5,2,2,522,Potential Loyal
+CUST0869,2024-10-25,5,96774.03,68,Karan Iyer,Male,38,Saket,Delhi,3,1,3,313,Lost Customers
+CUST0870,2024-06-12,6,113200.69,203,Shweta Nair,Female,52,Aurangabad,Maharashtra,1,2,3,123,Lost Customers
+CUST0871,2024-12-27,16,299677.52,5,Rekha Malhotra,Female,30,Kota,Rajasthan,5,5,5,555,VIP Customers
+CUST0872,2024-12-13,9,130852.22,19,Sachin Joshi,Male,24,Gandhinagar,Gujarat,5,4,4,544,VIP Customers
+CUST0873,2024-08-19,7,117452.39,135,Arjun Gupta,Male,18,Khammam,Telangana,2,2,3,223,Lost Customers
+CUST0874,2024-12-13,8,270589.52,19,Vikas Joshi,Male,24,Tiruchirappalli,Tamil Nadu,5,3,5,535,Potential Loyal
+CUST0875,2024-09-24,9,57296.14,99,Deepak Kapoor,Male,31,Kolkata,West Bengal,2,4,2,242,At-Risk Customers
+CUST0876,2024-12-21,9,147786.13,11,Rahul Tiwari,Male,49,Ahmedabad,Gujarat,5,4,4,544,VIP Customers
+CUST0877,2024-10-11,12,549692.74,82,Vikas Verma,Male,26,Hubli,Karnataka,2,5,5,255,Loyal Customers
+CUST0878,2024-11-24,10,133346.78,38,Harish Mehta,Male,34,Varanasi,Uttar Pradesh,4,4,4,444,VIP Customers
+CUST0879,2024-10-19,12,104592.2,74,Divya Iyer,Female,31,Durgapur,West Bengal,3,5,3,353,Loyal Customers
+CUST0880,2024-10-04,5,22064.2,89,Suresh Singh,Male,43,Hyderabad,Telangana,2,1,1,211,Lost Customers
+CUST0881,2024-09-26,12,142029.58000000002,97,Harish Verma,Male,57,Rohini,Delhi,2,5,4,254,Loyal Customers
+CUST0882,2024-12-23,12,83120.16,9,Sachin Nair,Male,26,Bhopal,Madhya Pradesh,5,5,3,553,Loyal Customers
+CUST0883,2024-11-25,11,141727.05000000002,37,Divya Iyer,Female,27,Kolkata,West Bengal,4,5,4,454,VIP Customers
+CUST0884,2024-07-03,10,54098.01,182,Neha Kapoor,Female,42,Coimbatore,Tamil Nadu,1,4,2,142,Lost Customers
+CUST0885,2024-07-25,4,53330.07,160,Shweta Nair,Female,38,Hubli,Karnataka,1,1,2,112,Lost Customers
+CUST0886,2024-12-07,10,297490.23,25,Priya Kapoor,Female,50,Warangal,Telangana,4,4,5,445,VIP Customers
+CUST0887,2024-02-29,5,124769.6,307,Amit Sharma,Male,37,Ujjain,Madhya Pradesh,1,1,4,114,Lost Customers
+CUST0888,2024-12-29,5,60124.18000000001,3,Shweta Kapoor,Female,28,Rohini,Delhi,5,1,2,512,New Customers
+CUST0889,2024-10-24,7,33708.5,69,Vijay Joshi,Male,37,Siliguri,West Bengal,3,2,1,321,Lost Customers
+CUST0890,2024-12-26,13,214162.9,6,Sanjay Gupta,Male,43,Salem,Tamil Nadu,5,5,5,555,VIP Customers
+CUST0891,2024-01-22,5,139869.77,345,Deepa Singh,Female,40,Belagavi,Karnataka,1,1,4,114,Lost Customers
+CUST0892,2024-12-05,8,129565.31,27,Rakesh Tiwari,Male,37,Hyderabad,Telangana,4,3,4,434,Potential Loyal
+CUST0893,2024-11-21,17,138626.75,41,Sunita Reddy,Female,42,Dwarka,Delhi,4,5,4,454,VIP Customers
+CUST0894,2024-10-06,9,367179.58,87,Asha Rao,Female,43,Mysuru,Karnataka,2,4,5,245,Loyal Customers
+CUST0895,2024-07-17,7,136597.97,168,Sachin Srivastava,Male,45,Dwarka,Delhi,1,2,4,124,Lost Customers
+CUST0896,2024-12-12,11,237525.4,20,Nisha Tiwari,Female,38,Gandhinagar,Gujarat,4,5,5,455,VIP Customers
+CUST0897,2024-11-09,8,155769.21000000002,53,Komal Kumar,Female,30,Ujjain,Madhya Pradesh,3,3,4,334,Potential Loyal
+CUST0898,2024-11-10,10,212978.1,52,Asha Mishra,Female,33,Bengaluru,Karnataka,3,4,5,345,Loyal Customers
+CUST0899,2024-11-19,7,63671.7,43,Sneha Mehta,Female,44,Durgapur,West Bengal,4,2,2,422,Potential Loyal
+CUST0900,2023-12-10,5,127536.82,388,Pooja Pillai,Female,23,Kota,Rajasthan,1,1,4,114,Lost Customers
+CUST0901,2024-08-15,10,179823.01,139,Meena Nair,Female,35,Bikaner,Rajasthan,1,4,4,144,Loyal Customers
+CUST0902,2024-12-12,10,331336.78,20,Sanjay Srivastava,Male,28,Rohini,Delhi,4,4,5,445,VIP Customers
+CUST0903,2024-03-16,5,55506.78,291,Rakesh Joshi,Male,32,Lucknow,Uttar Pradesh,1,1,2,112,Lost Customers
+CUST0904,2024-10-14,9,165601.16999999998,79,Rahul Malhotra,Male,44,Aurangabad,Maharashtra,2,4,4,244,Loyal Customers
+CUST0905,2024-12-29,7,90238.5,3,Komal Joshi,Female,33,Aurangabad,Maharashtra,5,2,3,523,Potential Loyal
+CUST0906,2024-11-05,8,140764.18,57,Shweta Kapoor,Female,32,Jodhpur,Rajasthan,3,3,4,334,Potential Loyal
+CUST0907,2024-12-31,13,36200.79,1,Geeta Mehta,Female,18,Gwalior,Madhya Pradesh,5,5,1,551,Lost Customers
+CUST0908,2024-10-08,8,55707.479999999996,85,Pradeep Malhotra,Male,39,Hyderabad,Telangana,2,3,2,232,At-Risk Customers
+CUST0909,2024-05-18,5,9436.83,228,Meena Malhotra,Female,38,Pune,Maharashtra,1,1,1,111,Lost Customers
+CUST0910,2024-10-30,14,162414.61000000002,63,Anil Kumar,Male,53,Jodhpur,Rajasthan,3,5,4,354,Loyal Customers
+CUST0911,2024-09-12,6,25830.940000000002,111,Harish Jain,Male,28,Mangaluru,Karnataka,2,2,1,221,Lost Customers
+CUST0912,2024-12-09,10,43698.36,23,Anita Mehta,Female,34,Jodhpur,Rajasthan,4,4,2,442,Potential Loyal
+CUST0913,2024-12-17,8,45884.34,15,Nitin Rao,Male,34,Chennai,Tamil Nadu,5,3,2,532,Potential Loyal
+CUST0914,2024-12-07,12,87591.92,25,Anil Rao,Male,47,Asansol,West Bengal,4,5,3,453,Loyal Customers
+CUST0915,2024-09-11,12,119284.75,112,Anita Verma,Female,31,Ahmedabad,Gujarat,2,5,4,254,Loyal Customers
+CUST0916,2024-12-06,11,154682.38,26,Ritu Jain,Female,34,Khammam,Telangana,4,5,4,454,VIP Customers
+CUST0917,2024-05-11,9,35232.39,235,Suresh Iyer,Male,38,Gandhinagar,Gujarat,1,4,1,141,Lost Customers
+CUST0918,2024-11-05,8,141911.21,57,Anil Reddy,Male,33,Howrah,West Bengal,3,3,4,334,Potential Loyal
+CUST0919,2024-12-14,6,81759.79000000001,18,Meena Rao,Female,27,Kota,Rajasthan,5,2,3,523,Potential Loyal
+CUST0920,2024-09-21,17,299009.3,102,Anil Kumar,Male,33,Jodhpur,Rajasthan,2,5,5,255,Loyal Customers
+CUST0921,2024-09-01,11,424371.39,122,Vikas Malhotra,Male,42,Kanpur,Uttar Pradesh,2,5,5,255,Loyal Customers
+CUST0922,2024-10-16,8,57755.79,77,Sanjay Gupta,Male,21,Gandhinagar,Gujarat,2,3,2,232,At-Risk Customers
+CUST0923,2024-08-14,7,162220.47,140,Ajay Mishra,Male,33,Ahmedabad,Gujarat,1,2,4,124,Lost Customers
+CUST0924,2024-12-05,9,128746.48,27,Nisha Agarwal,Female,24,Salem,Tamil Nadu,4,4,4,444,VIP Customers
+CUST0925,2024-06-24,7,44446.12,191,Ramesh Sharma,Male,43,Chennai,Tamil Nadu,1,2,2,122,Lost Customers
+CUST0926,2024-12-17,16,178430.96,15,Harish Jain,Male,18,Mysuru,Karnataka,5,5,4,554,VIP Customers
+CUST0927,2024-09-12,9,78526.38,111,Harish Kumar,Male,26,Pune,Maharashtra,2,4,3,243,Loyal Customers
+CUST0928,2024-07-14,7,47690.98,171,Neha Malhotra,Female,35,Siliguri,West Bengal,1,2,2,122,Lost Customers
+CUST0929,2024-11-25,10,38974.04,37,Sachin Patel,Male,47,Tiruchirappalli,Tamil Nadu,4,4,1,441,Lost Customers
+CUST0930,2024-11-14,14,152306.37,48,Nisha Gupta,Female,31,Tiruchirappalli,Tamil Nadu,3,5,4,354,Loyal Customers
+CUST0931,2024-12-11,7,78485.39,21,Harish Gupta,Male,26,Ujjain,Madhya Pradesh,4,2,3,423,Potential Loyal
+CUST0932,2024-10-25,7,89189.95999999999,68,Neha Pillai,Female,50,Bikaner,Rajasthan,3,2,3,323,Potential Loyal
+CUST0933,2024-12-21,6,117942.37000000001,11,Ajay Iyer,Male,18,Howrah,West Bengal,5,2,4,524,Potential Loyal
+CUST0934,2024-12-17,11,377329.02,15,Rahul Joshi,Male,18,Khammam,Telangana,5,5,5,555,VIP Customers
+CUST0935,2024-10-29,13,89322.04,64,Pooja Srivastava,Female,36,Dwarka,Delhi,3,5,3,353,Loyal Customers
+CUST0936,2024-12-30,11,142373.91999999998,2,Ankita Srivastava,Female,26,Aurangabad,Maharashtra,5,5,4,554,VIP Customers
+CUST0937,2024-12-10,9,144346.55000000002,22,Vikas Agarwal,Male,21,Belagavi,Karnataka,4,4,4,444,VIP Customers
+CUST0938,2024-10-21,8,65657.08,72,Ramesh Malhotra,Male,39,Durgapur,West Bengal,3,3,2,332,Potential Loyal
+CUST0939,2024-11-24,5,79976.37,38,Anil Mishra,Male,34,Tiruchirappalli,Tamil Nadu,4,1,3,413,New Customers
+CUST0940,2024-11-18,12,178797.81,44,Meena Jain,Female,26,Bhopal,Madhya Pradesh,3,5,4,354,Loyal Customers
+CUST0941,2024-10-19,9,47739.11,74,Pooja Reddy,Female,19,Jodhpur,Rajasthan,3,4,2,342,Potential Loyal
+CUST0942,2024-11-08,7,106513.71,54,Sachin Srivastava,Male,40,Karimnagar,Telangana,3,2,3,323,Potential Loyal
+CUST0943,2024-10-12,12,96718.67,81,Deepa Sharma,Female,38,Aurangabad,Maharashtra,2,5,3,253,Loyal Customers
+CUST0944,2024-11-10,10,228365.68,52,Anil Sharma,Male,31,Howrah,West Bengal,3,4,5,345,Loyal Customers
+CUST0945,2024-12-31,2,8730.279999999999,1,Seema Rao,Female,50,Dwarka,Delhi,5,1,1,511,New Customers
+CUST0946,2024-11-18,9,400452.48,44,Komal Reddy,Female,21,Meerut,Uttar Pradesh,3,4,5,345,Loyal Customers
+CUST0947,2024-12-24,10,118111.57,8,Komal Rao,Female,18,Gwalior,Madhya Pradesh,5,4,4,544,VIP Customers
+CUST0948,2024-12-12,8,115473.9,20,Deepa Mishra,Female,25,Khammam,Telangana,4,3,3,433,Potential Loyal
+CUST0949,2024-07-30,12,241897.46,155,Neha Rao,Female,31,Khammam,Telangana,1,5,5,155,Loyal Customers
+CUST0950,2024-05-16,7,157762.59,230,Ritu Nair,Female,34,Gwalior,Madhya Pradesh,1,2,4,124,Lost Customers
+CUST0951,2024-12-10,7,225789.77,22,Pooja Singh,Female,29,Tiruchirappalli,Tamil Nadu,4,2,5,425,Potential Loyal
+CUST0952,2024-08-16,7,24187.8,138,Arjun Joshi,Male,35,Karimnagar,Telangana,1,2,1,121,Lost Customers
+CUST0953,2024-11-18,8,106927.57,44,Shweta Srivastava,Female,19,Pune,Maharashtra,3,3,3,333,Potential Loyal
+CUST0954,2024-12-07,9,105422.09,25,Priya Patel,Female,46,Mangaluru,Karnataka,4,4,3,443,Loyal Customers
+CUST0955,2024-09-17,7,263223.94,106,Sunita Patel,Female,31,Kanpur,Uttar Pradesh,2,2,5,225,Lost Customers
+CUST0956,2024-11-06,6,75342.35,56,Sunita Srivastava,Female,43,Nashik,Maharashtra,3,2,3,323,Potential Loyal
+CUST0957,2024-11-23,11,85165.98999999999,39,Ankita Malhotra,Female,35,Meerut,Uttar Pradesh,4,5,3,453,Loyal Customers
+CUST0958,2024-11-23,6,24473.44,39,Sanjay Agarwal,Male,36,Jaipur,Rajasthan,4,2,1,421,Lost Customers
+CUST0959,2024-10-06,9,62884.14,87,Anil Nair,Male,37,Chennai,Tamil Nadu,2,4,2,242,At-Risk Customers
+CUST0960,2024-11-08,6,17806.56,54,Girish Gupta,Male,36,Nagpur,Maharashtra,3,2,1,321,Lost Customers
+CUST0961,2024-12-28,11,43349.39,4,Rahul Gupta,Male,38,Rohini,Delhi,5,5,2,552,Potential Loyal
+CUST0962,2024-08-18,3,14090.07,136,Meena Iyer,Female,45,Siliguri,West Bengal,1,1,1,111,Lost Customers
+CUST0963,2024-05-06,7,193431.12,240,Anil Sharma,Male,33,New Delhi,Delhi,1,2,5,125,Lost Customers
+CUST0964,2024-08-08,13,64322.369999999995,146,Shweta Jain,Female,39,Vadodara,Gujarat,1,5,2,152,Lost Customers
+CUST0965,2024-12-20,14,253730.72,12,Sneha Srivastava,Female,31,Tiruchirappalli,Tamil Nadu,5,5,5,555,VIP Customers
+CUST0966,2024-12-14,14,73485.78,18,Komal Sharma,Female,46,Kanpur,Uttar Pradesh,5,5,2,552,Potential Loyal
+CUST0967,2024-03-13,3,23312.5,294,Rekha Singh,Female,25,Hyderabad,Telangana,1,1,1,111,Lost Customers
+CUST0968,2024-11-26,11,83930.7,36,Asha Singh,Female,50,Nizamabad,Telangana,4,5,3,453,Loyal Customers
+CUST0969,2024-12-06,7,16241.960000000001,26,Divya Iyer,Female,31,Jabalpur,Madhya Pradesh,4,2,1,421,Lost Customers
+CUST0970,2024-12-29,11,192409.09,3,Karan Tiwari,Male,18,Bikaner,Rajasthan,5,5,5,555,VIP Customers
+CUST0971,2024-11-25,13,193035.6,37,Manoj Singh,Male,33,Lucknow,Uttar Pradesh,4,5,5,455,VIP Customers
+CUST0972,2024-11-01,13,170395.23,61,Sneha Mehta,Female,25,Rajkot,Gujarat,3,5,4,354,Loyal Customers
+CUST0973,2024-11-07,15,110244.11,55,Rekha Kapoor,Female,40,Nagpur,Maharashtra,3,5,3,353,Loyal Customers
+CUST0974,2024-11-15,5,68574.66,47,Sachin Patel,Male,25,Durgapur,West Bengal,3,1,2,312,Lost Customers
+CUST0975,2024-10-30,13,110788.05,63,Rakesh Gupta,Male,27,Udaipur,Rajasthan,3,5,3,353,Loyal Customers
+CUST0976,2024-12-24,4,114888.31,8,Deepa Jain,Female,18,Kanpur,Uttar Pradesh,5,1,3,513,New Customers
+CUST0977,2024-12-07,9,157100.77,25,Manoj Joshi,Male,27,Coimbatore,Tamil Nadu,4,4,4,444,VIP Customers
+CUST0978,2024-12-27,10,245160.46,5,Unknown,Female,18,Coimbatore,Tamil Nadu,5,4,5,545,VIP Customers
+CUST0979,2024-11-28,8,59408.67,34,Pooja Singh,Female,18,New Delhi,Delhi,4,3,2,432,Potential Loyal
+CUST0980,2024-12-08,7,228299.13999999998,24,Ankita Sharma,Female,39,Hyderabad,Telangana,4,2,5,425,Potential Loyal
+CUST0981,2024-11-15,12,103768.79,47,Meena Srivastava,Female,39,Rajkot,Gujarat,3,5,3,353,Loyal Customers
+CUST0982,2024-12-11,11,143210.47999999998,21,Nisha Gupta,Female,36,Nizamabad,Telangana,4,5,4,454,VIP Customers
+CUST0983,2024-07-05,5,62348.229999999996,180,Sneha Jain,Female,22,Bengaluru,Karnataka,1,1,2,112,Lost Customers
+CUST0984,2024-12-22,4,63035.840000000004,10,Nisha Kapoor,Female,31,Aurangabad,Maharashtra,5,1,2,512,New Customers
+CUST0985,2024-11-21,9,258615.38,41,Geeta Gupta,Female,31,Jaipur,Rajasthan,4,4,5,445,VIP Customers
+CUST0986,2024-05-05,4,191592.21,241,Asha Sharma,Female,20,Pune,Maharashtra,1,1,5,115,Lost Customers
+CUST0987,2024-12-01,10,262202.54000000004,31,Komal Singh,Female,47,Vadodara,Gujarat,4,4,5,445,VIP Customers
+CUST0988,2024-12-14,9,72964.06,18,Neha Kapoor,Female,40,Kanpur,Uttar Pradesh,5,4,2,542,Potential Loyal
+CUST0989,2024-09-13,10,198840.38,110,Nisha Srivastava,Female,29,Vadodara,Gujarat,2,4,5,245,Loyal Customers
+CUST0990,2024-11-23,8,275108.51,39,Manoj Mishra,Male,32,Tiruchirappalli,Tamil Nadu,4,3,5,435,Potential Loyal
+CUST0991,2024-10-25,7,31606.6,68,Meena Iyer,Female,34,Varanasi,Uttar Pradesh,3,2,1,321,Lost Customers
+CUST0992,2024-11-15,8,39612.27,47,Harish Kumar,Male,18,Indore,Madhya Pradesh,3,3,1,331,At-Risk Customers
+CUST0993,2024-12-10,5,41297.71,22,Nitin Mehta,Male,29,Karimnagar,Telangana,4,1,2,412,New Customers
+CUST0994,2024-08-16,11,174024.72,138,Deepa Kumar,Female,25,Mangaluru,Karnataka,1,5,4,154,Loyal Customers
+CUST0995,2024-04-20,6,84588.01999999999,256,Sanjay Mishra,Male,21,Jodhpur,Rajasthan,1,2,3,123,Lost Customers
+CUST0996,2024-09-21,9,38895.880000000005,102,Nisha Nair,Female,29,Meerut,Uttar Pradesh,2,4,1,241,At-Risk Customers
+CUST0997,2024-12-19,10,112685.67,13,Suresh Singh,Male,49,Bengaluru,Karnataka,5,4,3,543,Loyal Customers
+CUST0998,2024-05-16,5,118898.46,230,Nitin Agarwal,Male,38,Saket,Delhi,1,1,4,114,Lost Customers
+CUST0999,2024-10-28,9,255900.08000000002,65,Ritu Rao,Female,26,Gandhinagar,Gujarat,3,4,5,345,Loyal Customers
+CUST1000,2024-11-27,10,50657.58,35,Meena Sharma,Female,37,Kolkata,West Bengal,4,4,2,442,Potential Loyal
+CUST1001,2024-09-17,5,56026.799999999996,106,Ankita Joshi,Female,45,Ujjain,Madhya Pradesh,2,1,2,212,Lost Customers
+CUST1002,2024-12-27,10,107754.56,5,Sachin Rao,Male,41,Gandhinagar,Gujarat,5,4,3,543,Loyal Customers
+CUST1003,2024-12-17,7,101337.97,15,Divya Patel,Female,32,Siliguri,West Bengal,5,2,3,523,Potential Loyal
+CUST1004,2024-09-06,9,142054.9,117,Divya Kumar,Female,25,Hubli,Karnataka,2,4,4,244,Loyal Customers
+CUST1005,2024-10-06,10,54531.45,87,Ankita Jain,Female,38,Kolkata,West Bengal,2,4,2,242,At-Risk Customers
+CUST1006,2024-12-14,10,83839.24,18,Sanjay Pillai,Male,35,Madurai,Tamil Nadu,5,4,3,543,Loyal Customers
+CUST1007,2024-12-28,5,198253.3,4,Sona Reddy,Female,40,Jabalpur,Madhya Pradesh,5,1,5,515,New Customers
+CUST1008,2024-07-01,8,106203.16,184,Divya Rao,Female,38,Ujjain,Madhya Pradesh,1,3,3,133,Lost Customers
+CUST1009,2024-12-23,10,38286.66,9,Seema Gupta,Female,42,Bengaluru,Karnataka,5,4,1,541,Lost Customers
+CUST1010,2024-08-12,6,46414.869999999995,142,Ajay Reddy,Male,26,Dwarka,Delhi,1,2,2,122,Lost Customers
+CUST1011,2024-12-19,8,42208.39,13,Suresh Singh,Male,45,New Delhi,Delhi,5,3,2,532,Potential Loyal
+CUST1012,2024-10-31,3,24063.769999999997,62,Shweta Verma,Female,33,Nashik,Maharashtra,3,1,1,311,Lost Customers
+CUST1013,2024-10-26,8,67940.09,67,Arjun Reddy,Male,52,Indore,Madhya Pradesh,3,3,2,332,Potential Loyal
+CUST1014,2024-12-14,8,50839.99,18,Suresh Nair,Male,25,Coimbatore,Tamil Nadu,5,3,2,532,Potential Loyal
+CUST1015,2024-11-13,11,113278.87000000001,49,Divya Kumar,Female,49,Belagavi,Karnataka,3,5,3,353,Loyal Customers
+CUST1016,2024-12-11,6,108903.2,21,Rahul Verma,Male,33,Vadodara,Gujarat,4,2,3,423,Potential Loyal
+CUST1017,2024-10-17,12,309292.68,76,Divya Kapoor,Female,25,Meerut,Uttar Pradesh,2,5,5,255,Loyal Customers
+CUST1018,2024-12-14,8,269006.4,18,Pooja Kapoor,Female,27,Belagavi,Karnataka,5,3,5,535,Potential Loyal
+CUST1019,2024-12-22,5,127477.88,10,Komal Mishra,Female,28,Khammam,Telangana,5,1,4,514,New Customers
+CUST1020,2024-11-18,10,167305.08000000002,44,Meena Agarwal,Female,36,Warangal,Telangana,3,4,4,344,Loyal Customers
+CUST1021,2024-12-30,8,47309.7,2,Pradeep Nair,Male,37,Rajkot,Gujarat,5,3,2,532,Potential Loyal
+CUST1022,2024-10-29,12,110865.93,64,Pooja Nair,Female,26,Mumbai,Maharashtra,3,5,3,353,Loyal Customers
+CUST1023,2024-10-06,5,31809.85,87,Vijay Nair,Male,31,Bikaner,Rajasthan,2,1,1,211,Lost Customers
+CUST1024,2024-12-16,13,502860.6,16,Manoj Agarwal,Male,53,Lucknow,Uttar Pradesh,5,5,5,555,VIP Customers
+CUST1025,2024-11-24,13,202834.6,38,Sona Srivastava,Female,49,Chennai,Tamil Nadu,4,5,5,455,VIP Customers
+CUST1026,2024-12-10,9,100058.05,22,Deepa Mishra,Female,36,Karimnagar,Telangana,4,4,3,443,Loyal Customers
+CUST1027,2024-11-20,10,244157.31,42,Sneha Gupta,Female,32,Asansol,West Bengal,4,4,5,445,VIP Customers
+CUST1028,2024-10-18,6,170438.76,75,Nitin Patel,Male,33,Howrah,West Bengal,2,2,4,224,Lost Customers
+CUST1029,2024-10-08,4,20060.79,85,Sona Kapoor,Female,38,Varanasi,Uttar Pradesh,2,1,1,211,Lost Customers
+CUST1030,2024-09-24,10,178098.03,99,Vikas Gupta,Male,21,Hubli,Karnataka,2,4,4,244,Loyal Customers
+CUST1031,2024-12-23,5,45146.25,9,Pradeep Srivastava,Male,29,Udaipur,Rajasthan,5,1,2,512,New Customers
+CUST1032,2024-11-04,7,72019.37,58,Deepa Pillai,Female,18,Pune,Maharashtra,3,2,2,322,Potential Loyal
+CUST1033,2024-10-30,9,333648.12,63,Rakesh Sharma,Male,35,Bengaluru,Karnataka,3,4,5,345,Loyal Customers
+CUST1034,2024-11-22,9,51101.52,40,Ritu Kumar,Female,38,Jaipur,Rajasthan,4,4,2,442,Potential Loyal
+CUST1035,2024-12-05,9,269795.41000000003,27,Vikas Kumar,Male,27,Nashik,Maharashtra,4,4,5,445,VIP Customers
+CUST1036,2024-12-10,14,173628.86,22,Karan Mishra,Male,47,Varanasi,Uttar Pradesh,4,5,4,454,VIP Customers
+CUST1037,2024-06-14,6,40468.55,201,Divya Verma,Female,19,Ahmedabad,Gujarat,1,2,2,122,Lost Customers
+CUST1038,2024-09-20,12,127945.0,103,Amit Reddy,Male,18,Kolkata,West Bengal,2,5,4,254,Loyal Customers
+CUST1039,2024-10-25,10,71591.56,68,Neha Joshi,Female,34,Varanasi,Uttar Pradesh,3,4,2,342,Potential Loyal
+CUST1040,2024-09-04,11,47711.9,119,Arjun Mehta,Male,42,Asansol,West Bengal,2,5,2,252,At-Risk Customers
+CUST1041,2024-12-31,8,258789.25000000003,1,Amit Joshi,Male,48,Jaipur,Rajasthan,5,3,5,535,Potential Loyal
+CUST1042,2024-09-03,8,149924.81,120,Manoj Iyer,Male,27,Agra,Uttar Pradesh,2,3,4,234,At-Risk Customers
+CUST1043,2023-06-02,3,14236.9,579,Amit Kapoor,Male,42,Hyderabad,Telangana,1,1,1,111,Lost Customers
+CUST1044,2024-12-24,4,15096.720000000001,8,Nisha Nair,Female,31,Madurai,Tamil Nadu,5,1,1,511,New Customers
+CUST1045,2024-11-17,9,114077.87999999999,45,Deepak Singh,Male,30,Tiruchirappalli,Tamil Nadu,3,4,3,343,Loyal Customers
+CUST1046,2024-11-27,13,105920.06,35,Priya Gupta,Female,40,Meerut,Uttar Pradesh,4,5,3,453,Loyal Customers
+CUST1047,2024-12-21,8,229451.34,11,Suresh Mehta,Male,38,Mumbai,Maharashtra,5,3,5,535,Potential Loyal
+CUST1048,2024-10-23,14,92008.79000000001,70,Ankita Kumar,Female,18,Ahmedabad,Gujarat,3,5,3,353,Loyal Customers
+CUST1049,2024-09-15,7,136314.38999999998,108,Sanjay Agarwal,Male,46,Lajpat Nagar,Delhi,2,2,4,224,Lost Customers
+CUST1050,2024-12-12,11,100856.55,20,Anita Verma,Female,45,Surat,Gujarat,4,5,3,453,Loyal Customers
+CUST1051,2024-11-30,11,86075.3,32,Rohit Agarwal,Male,25,Madurai,Tamil Nadu,4,5,3,453,Loyal Customers
+CUST1052,2024-11-05,7,124421.57,57,Divya Joshi,Female,35,Nashik,Maharashtra,3,2,4,324,Potential Loyal
+CUST1053,2024-12-12,23,361379.69,20,Pooja Reddy,Female,36,Nashik,Maharashtra,4,5,5,455,VIP Customers
+CUST1054,2024-10-29,6,30987.78,64,Shweta Nair,Female,34,Karimnagar,Telangana,3,2,1,321,Lost Customers
+CUST1055,2024-02-22,4,67498.61,314,Harish Gupta,Male,26,Nizamabad,Telangana,1,1,2,112,Lost Customers
+CUST1056,2024-11-11,12,119734.18000000001,51,Divya Reddy,Female,25,Ujjain,Madhya Pradesh,3,5,4,354,Loyal Customers
+CUST1057,2024-10-25,12,120992.71,68,Vikas Malhotra,Male,31,Mangaluru,Karnataka,3,5,4,354,Loyal Customers
+CUST1058,2024-08-29,10,233433.22,125,Ritu Kapoor,Female,43,Rajkot,Gujarat,2,4,5,245,Loyal Customers
+CUST1059,2024-12-07,20,203546.44999999998,25,Anil Iyer,Male,37,Bengaluru,Karnataka,4,5,5,455,VIP Customers
+CUST1060,2024-12-15,11,98252.20999999999,17,Ankita Mehta,Female,28,Ahmedabad,Gujarat,5,5,3,553,Loyal Customers
+CUST1061,2024-09-25,11,334822.82,98,Deepa Malhotra,Female,39,Bikaner,Rajasthan,2,5,5,255,Loyal Customers
+CUST1062,2024-11-18,12,82927.61,44,Girish Nair,Male,18,Rajkot,Gujarat,3,5,3,353,Loyal Customers
+CUST1063,2024-06-09,7,37321.0,206,Kavita Singh,Female,43,Hyderabad,Telangana,1,2,1,121,Lost Customers
+CUST1064,2024-12-02,9,516730.65,30,Rohit Gupta,Male,18,Pune,Maharashtra,4,4,5,445,VIP Customers
+CUST1065,2024-12-28,8,96122.5,4,Manoj Joshi,Male,28,New Delhi,Delhi,5,3,3,533,Potential Loyal
+CUST1066,2024-08-15,6,18735.649999999998,139,Nisha Malhotra,Female,20,Ujjain,Madhya Pradesh,1,2,1,121,Lost Customers
+CUST1067,2024-10-24,13,183054.4,69,Anita Rao,Female,19,Salem,Tamil Nadu,3,5,5,355,Loyal Customers
+CUST1068,2024-11-19,8,79216.64,43,Rahul Joshi,Male,43,Jaipur,Rajasthan,4,3,3,433,Potential Loyal
+CUST1069,2024-12-02,7,47555.01,30,Anita Rao,Female,27,Karimnagar,Telangana,4,2,2,422,Potential Loyal
+CUST1070,2024-11-12,10,242407.66,50,Anita Srivastava,Female,35,Meerut,Uttar Pradesh,3,4,5,345,Loyal Customers
+CUST1071,2024-11-22,7,240989.62000000002,40,Vikas Nair,Male,31,Dwarka,Delhi,4,2,5,425,Potential Loyal
+CUST1072,2024-12-26,7,27121.98,6,Arjun Mehta,Male,36,Karimnagar,Telangana,5,2,1,521,Lost Customers
+CUST1073,2024-11-01,12,46605.72,61,Deepak Malhotra,Male,32,Salem,Tamil Nadu,3,5,2,352,Potential Loyal
+CUST1074,2024-12-15,8,63779.23,17,Rakesh Kapoor,Male,19,Kolkata,West Bengal,5,3,2,532,Potential Loyal
+CUST1075,2024-12-25,7,46058.18,7,Divya Mishra,Female,41,Dwarka,Delhi,5,2,2,522,Potential Loyal
+CUST1076,2024-12-22,8,171804.82,10,Rakesh Iyer,Male,27,Nizamabad,Telangana,5,3,4,534,Potential Loyal
+CUST1077,2024-10-11,8,48254.81,82,Rakesh Srivastava,Male,18,Udaipur,Rajasthan,2,3,2,232,At-Risk Customers
+CUST1078,2024-11-16,6,281562.06,46,Shweta Pillai,Female,27,Rajkot,Gujarat,3,2,5,325,Potential Loyal
+CUST1079,2024-12-31,7,95595.59999999999,1,Asha Srivastava,Female,47,Salem,Tamil Nadu,5,2,3,523,Potential Loyal
+CUST1080,2024-10-12,6,121228.0,81,Suresh Kapoor,Male,40,Agra,Uttar Pradesh,2,2,4,224,Lost Customers
+CUST1081,2024-11-09,7,28807.5,53,Divya Iyer,Female,28,Mumbai,Maharashtra,3,2,1,321,Lost Customers
+CUST1082,2024-12-23,7,27767.85,9,Ankita Sharma,Female,28,Warangal,Telangana,5,2,1,521,Lost Customers
+CUST1083,2024-06-28,4,11962.3,187,Priya Nair,Female,28,Coimbatore,Tamil Nadu,1,1,1,111,Lost Customers
+CUST1084,2024-10-04,9,83795.09,89,Priya Reddy,Female,52,Khammam,Telangana,2,4,3,243,Loyal Customers
+CUST1085,2024-12-06,14,78973.95,26,Arjun Verma,Male,35,Udaipur,Rajasthan,4,5,3,453,Loyal Customers
+CUST1086,2024-12-16,4,3010.96,16,Rohit Reddy,Male,36,Gandhinagar,Gujarat,5,1,1,511,New Customers
+CUST1087,2024-12-15,17,172190.25,17,Ajay Reddy,Male,42,Lucknow,Uttar Pradesh,5,5,4,554,VIP Customers
+CUST1088,2024-11-13,6,24187.42,49,Komal Joshi,Female,34,Rohini,Delhi,3,2,1,321,Lost Customers
+CUST1089,2024-11-21,10,88938.65000000001,41,Neha Agarwal,Female,29,Bhopal,Madhya Pradesh,4,4,3,443,Loyal Customers
+CUST1090,2024-12-20,10,289818.54000000004,12,Anita Jain,Female,30,Kolkata,West Bengal,5,4,5,545,VIP Customers
+CUST1091,2024-11-15,8,30035.760000000002,47,Karan Rao,Male,31,Asansol,West Bengal,3,3,1,331,At-Risk Customers
+CUST1092,2024-12-13,9,57885.310000000005,19,Unknown,Male,31,Nashik,Maharashtra,5,4,2,542,Potential Loyal
+CUST1093,2024-11-17,7,292419.33999999997,45,Sachin Malhotra,Male,39,Nagpur,Maharashtra,3,2,5,325,Potential Loyal
+CUST1094,2024-06-08,4,64984.37,207,Karan Malhotra,Male,32,Coimbatore,Tamil Nadu,1,1,2,112,Lost Customers
+CUST1095,2024-08-11,7,253041.15,143,Suresh Tiwari,Male,39,Ujjain,Madhya Pradesh,1,2,5,125,Lost Customers
+CUST1096,2024-12-17,6,58639.48,15,Ajay Mishra,Male,31,Varanasi,Uttar Pradesh,5,2,2,522,Potential Loyal
+CUST1097,2024-09-18,7,93442.93000000001,105,Rohit Pillai,Male,32,Saket,Delhi,2,2,3,223,Lost Customers
+CUST1098,2024-12-05,8,73648.31,27,Rakesh Iyer,Male,18,Lucknow,Uttar Pradesh,4,3,2,432,Potential Loyal
+CUST1099,2024-08-30,8,34810.14,124,Rekha Mishra,Female,41,Mysuru,Karnataka,2,3,1,231,At-Risk Customers
+CUST1100,2024-12-03,5,45970.32,29,Shweta Joshi,Female,35,Kota,Rajasthan,4,1,2,412,New Customers
+CUST1101,2024-11-29,9,27953.22,33,Rakesh Srivastava,Male,41,Warangal,Telangana,4,4,1,441,Lost Customers
+CUST1102,2023-11-04,4,185071.97,424,Vikas Reddy,Male,18,Durgapur,West Bengal,1,1,5,115,Lost Customers
+CUST1103,2024-10-12,6,158928.62,81,Arjun Mishra,Male,52,Durgapur,West Bengal,2,2,4,224,Lost Customers
+CUST1104,2024-11-24,6,15332.75,38,Deepa Pillai,Female,30,Gandhinagar,Gujarat,4,2,1,421,Lost Customers
+CUST1105,2024-10-24,8,31248.769999999997,69,Sachin Gupta,Male,43,Gandhinagar,Gujarat,3,3,1,331,At-Risk Customers
+CUST1106,2024-05-16,9,157497.85,230,Ankita Kumar,Female,21,Jaipur,Rajasthan,1,4,4,144,Loyal Customers
+CUST1107,2024-11-11,9,29338.190000000002,51,Deepak Rao,Male,38,Bengaluru,Karnataka,3,4,1,341,At-Risk Customers
+CUST1108,2024-11-17,12,96207.52,45,Amit Mehta,Male,21,Indore,Madhya Pradesh,3,5,3,353,Loyal Customers
+CUST1109,2024-10-19,11,339490.57999999996,74,Priya Pillai,Female,25,Rohini,Delhi,3,5,5,355,Loyal Customers
+CUST1110,2024-09-25,8,80621.73,98,Nisha Sharma,Female,51,Surat,Gujarat,2,3,3,233,At-Risk Customers
+CUST1111,2024-11-22,4,15309.07,40,Deepak Kapoor,Male,30,Nizamabad,Telangana,4,1,1,411,New Customers
+CUST1112,2024-05-01,4,75748.97,245,Ankita Kumar,Female,34,Nashik,Maharashtra,1,1,3,113,Lost Customers
+CUST1113,2024-10-12,11,57423.829999999994,81,Nitin Gupta,Male,40,Nagpur,Maharashtra,2,5,2,252,At-Risk Customers
+CUST1114,2024-09-06,6,18675.579999999998,117,Girish Reddy,Male,36,Nashik,Maharashtra,2,2,1,221,Lost Customers
+CUST1115,2024-12-06,17,155755.72,26,Vikas Iyer,Male,33,Agra,Uttar Pradesh,4,5,4,454,VIP Customers
+CUST1116,2024-08-23,10,48899.33,131,Rahul Nair,Male,35,Howrah,West Bengal,2,4,2,242,At-Risk Customers
+CUST1117,2024-11-29,11,111771.67,33,Rekha Singh,Female,56,Rajkot,Gujarat,4,5,3,453,Loyal Customers
+CUST1118,2024-10-26,6,69244.87,67,Sanjay Joshi,Male,31,Karimnagar,Telangana,3,2,2,322,Potential Loyal
+CUST1119,2024-05-14,7,16846.39,232,Amit Mehta,Male,34,Nizamabad,Telangana,1,2,1,121,Lost Customers
+CUST1120,2024-09-20,7,44377.149999999994,103,Nisha Iyer,Female,42,Bengaluru,Karnataka,2,2,2,222,Lost Customers
+CUST1121,2024-11-25,11,37902.98,37,Meena Rao,Female,43,Kanpur,Uttar Pradesh,4,5,1,451,Lost Customers
+CUST1122,2024-11-23,10,111284.79,39,Anita Reddy,Female,43,Kolkata,West Bengal,4,4,3,443,Loyal Customers
+CUST1123,2024-11-13,8,36557.98,49,Sneha Kumar,Female,38,Rajkot,Gujarat,3,3,1,331,At-Risk Customers
+CUST1124,2024-08-10,13,160331.6,144,Vikas Iyer,Male,20,Khammam,Telangana,1,5,4,154,Loyal Customers
+CUST1125,2024-09-21,14,40318.409999999996,102,Ramesh Mehta,Male,48,Indore,Madhya Pradesh,2,5,2,252,At-Risk Customers
+CUST1126,2024-08-03,7,80868.68000000001,151,Sona Srivastava,Female,20,Rajkot,Gujarat,1,2,3,123,Lost Customers
+CUST1127,2024-11-22,7,46035.48,40,Deepak Kumar,Male,35,Ujjain,Madhya Pradesh,4,2,2,422,Potential Loyal
+CUST1128,2024-12-17,18,348281.75,15,Rohit Nair,Male,24,Warangal,Telangana,5,5,5,555,VIP Customers
+CUST1129,2024-12-15,8,127262.58,17,Pooja Jain,Female,31,Hubli,Karnataka,5,3,4,534,Potential Loyal
+CUST1130,2024-12-26,10,153029.52,6,Rakesh Kapoor,Male,35,Dwarka,Delhi,5,4,4,544,VIP Customers
+CUST1131,2024-11-19,8,67752.09,43,Pooja Sharma,Female,35,Rajkot,Gujarat,4,3,2,432,Potential Loyal
+CUST1132,2024-12-21,6,63304.97,11,Sona Tiwari,Female,36,Kanpur,Uttar Pradesh,5,2,2,522,Potential Loyal
+CUST1133,2024-11-17,10,210237.66999999998,45,Arjun Kumar,Male,48,Bengaluru,Karnataka,3,4,5,345,Loyal Customers
+CUST1134,2024-09-16,7,45274.39,107,Ankita Jain,Female,36,Indore,Madhya Pradesh,2,2,2,222,Lost Customers
+CUST1135,2024-08-09,5,25835.11,145,Ajay Sharma,Male,29,Ahmedabad,Gujarat,1,1,1,111,Lost Customers
+CUST1136,2024-07-13,7,266354.72000000003,172,Pooja Malhotra,Female,41,Jabalpur,Madhya Pradesh,1,2,5,125,Lost Customers
+CUST1137,2024-12-04,6,146062.78,28,Neha Iyer,Female,43,Kota,Rajasthan,4,2,4,424,Potential Loyal
+CUST1138,2024-11-26,7,30472.46,36,Sanjay Joshi,Male,19,Chennai,Tamil Nadu,4,2,1,421,Lost Customers
+CUST1139,2024-11-26,10,54071.0,36,Priya Reddy,Female,37,Howrah,West Bengal,4,4,2,442,Potential Loyal
+CUST1140,2024-10-23,6,68283.93000000001,70,Deepak Patel,Male,39,Mangaluru,Karnataka,3,2,2,322,Potential Loyal
+CUST1141,2024-09-22,8,58100.0,101,Asha Tiwari,Female,29,Tiruchirappalli,Tamil Nadu,2,3,2,232,At-Risk Customers
+CUST1142,2024-09-27,5,62216.32000000001,96,Anita Srivastava,Female,45,Durgapur,West Bengal,2,1,2,212,Lost Customers
+CUST1143,2024-08-19,10,149431.76,135,Ankita Jain,Female,30,Ujjain,Madhya Pradesh,2,4,4,244,Loyal Customers
+CUST1144,2024-04-13,6,19281.260000000002,263,Anil Singh,Male,33,Kota,Rajasthan,1,2,1,121,Lost Customers
+CUST1145,2024-10-11,9,44566.64,82,Ajay Malhotra,Male,30,Karimnagar,Telangana,2,4,2,242,At-Risk Customers
+CUST1146,2024-12-19,9,63092.82,13,Rakesh Iyer,Male,32,Hyderabad,Telangana,5,4,2,542,Potential Loyal
+CUST1147,2024-07-05,4,41182.71,180,Sachin Tiwari,Male,21,Durgapur,West Bengal,1,1,2,112,Lost Customers
+CUST1148,2024-12-09,13,105455.08,23,Divya Gupta,Female,18,Durgapur,West Bengal,4,5,3,453,Loyal Customers
+CUST1149,2024-12-16,15,202180.08,16,Anil Kumar,Male,47,Kota,Rajasthan,5,5,5,555,VIP Customers
+CUST1150,2024-08-07,4,7182.9800000000005,147,Anil Singh,Male,23,Belagavi,Karnataka,1,1,1,111,Lost Customers
+CUST1151,2024-09-05,10,84298.51000000001,118,Suresh Mishra,Male,22,Rajkot,Gujarat,2,4,3,243,Loyal Customers
+CUST1152,2024-12-27,8,69414.07,5,Sanjay Tiwari,Male,18,Indore,Madhya Pradesh,5,3,2,532,Potential Loyal
+CUST1153,2024-10-31,9,92222.06999999999,62,Sunita Reddy,Female,25,Surat,Gujarat,3,4,3,343,Loyal Customers
+CUST1154,2024-11-28,4,23383.81,34,Vikas Singh,Male,18,Udaipur,Rajasthan,4,1,1,411,New Customers
+CUST1155,2024-09-23,7,68927.3,100,Anil Iyer,Male,48,Khammam,Telangana,2,2,2,222,Lost Customers
+CUST1156,2024-06-22,10,170222.15,193,Suresh Kapoor,Male,42,Kolkata,West Bengal,1,4,4,144,Loyal Customers
+CUST1157,2024-10-07,9,321675.75999999995,86,Karan Jain,Male,25,Mysuru,Karnataka,2,4,5,245,Loyal Customers
+CUST1158,2024-09-15,11,131322.18,108,Sanjay Verma,Male,54,Durgapur,West Bengal,2,5,4,254,Loyal Customers
+CUST1159,2024-09-14,11,161566.2,109,Divya Nair,Female,41,Bengaluru,Karnataka,2,5,4,254,Loyal Customers
+CUST1160,2024-12-26,11,176547.35,6,Deepak Sharma,Male,28,Gwalior,Madhya Pradesh,5,5,4,554,VIP Customers
+CUST1161,2024-12-20,13,119221.92,12,Pradeep Agarwal,Male,18,Bikaner,Rajasthan,5,5,4,554,VIP Customers
+CUST1162,2024-12-17,9,46525.09,15,Girish Agarwal,Male,54,Coimbatore,Tamil Nadu,5,4,2,542,Potential Loyal
+CUST1163,2024-11-08,14,292197.31,54,Divya Mishra,Female,18,Jaipur,Rajasthan,3,5,5,355,Loyal Customers
+CUST1164,2024-11-04,12,214842.89,58,Ajay Kapoor,Male,18,Meerut,Uttar Pradesh,3,5,5,355,Loyal Customers
+CUST1165,2024-12-11,6,59919.520000000004,21,Amit Gupta,Male,42,Bengaluru,Karnataka,4,2,2,422,Potential Loyal
+CUST1166,2024-11-28,8,41977.14,34,Anita Kumar,Female,56,Aurangabad,Maharashtra,4,3,2,432,Potential Loyal
+CUST1167,2024-12-29,9,167098.26,3,Asha Patel,Female,45,Mumbai,Maharashtra,5,4,4,544,VIP Customers
+CUST1168,2024-10-12,5,81838.3,81,Neha Gupta,Female,37,Meerut,Uttar Pradesh,2,1,3,213,Lost Customers
+CUST1169,2024-11-07,11,66603.22,55,Pradeep Jain,Male,37,Ahmedabad,Gujarat,3,5,2,352,Potential Loyal
+CUST1170,2024-07-19,6,252313.52,166,Sachin Pillai,Male,40,Rajkot,Gujarat,1,2,5,125,Lost Customers
+CUST1171,2024-11-24,7,28854.44,38,Ramesh Kapoor,Male,39,Rohini,Delhi,4,2,1,421,Lost Customers
+CUST1172,2024-12-21,12,207423.49,11,Pooja Singh,Female,34,Agra,Uttar Pradesh,5,5,5,555,VIP Customers
+CUST1173,2024-11-04,10,101103.6,58,Rekha Joshi,Female,33,Salem,Tamil Nadu,3,4,3,343,Loyal Customers
+CUST1174,2024-11-08,9,229506.42,54,Unknown,Male,31,Hyderabad,Telangana,3,4,5,345,Loyal Customers
+CUST1175,2024-12-27,5,14395.58,5,Ankita Nair,Female,24,Siliguri,West Bengal,5,1,1,511,New Customers
+CUST1176,2024-12-26,16,368980.36,6,Ritu Malhotra,Female,29,Ujjain,Madhya Pradesh,5,5,5,555,VIP Customers
+CUST1177,2024-11-01,12,250013.46,61,Pooja Srivastava,Female,18,Jabalpur,Madhya Pradesh,3,5,5,355,Loyal Customers
+CUST1178,2024-12-06,8,197649.4,26,Nisha Gupta,Female,31,Indore,Madhya Pradesh,4,3,5,435,Potential Loyal
+CUST1179,2024-08-07,6,122247.79000000001,147,Deepa Sharma,Female,22,New Delhi,Delhi,1,2,4,124,Lost Customers
+CUST1180,2024-11-11,9,230958.28,51,Kavita Joshi,Female,20,Jabalpur,Madhya Pradesh,3,4,5,345,Loyal Customers
+CUST1181,2024-09-29,6,238660.84999999998,94,Anita Pillai,Female,33,Gandhinagar,Gujarat,2,2,5,225,Lost Customers
+CUST1182,2024-08-14,6,76334.70000000001,140,Rahul Joshi,Male,45,Agra,Uttar Pradesh,1,2,3,123,Lost Customers
+CUST1183,2024-12-13,7,32362.2,19,Sachin Nair,Male,41,Khammam,Telangana,5,2,1,521,Lost Customers
+CUST1184,2024-10-25,7,263404.92,68,Priya Singh,Female,18,Vadodara,Gujarat,3,2,5,325,Potential Loyal
+CUST1185,2024-12-14,10,261194.91,18,Komal Srivastava,Female,22,Pune,Maharashtra,5,4,5,545,VIP Customers
+CUST1186,2024-10-03,11,70012.23000000001,90,Karan Pillai,Male,41,Kota,Rajasthan,2,5,2,252,At-Risk Customers
+CUST1187,2024-02-07,4,39317.37,329,Rohit Agarwal,Male,22,Mangaluru,Karnataka,1,1,1,111,Lost Customers
+CUST1188,2024-11-16,7,69066.87,46,Divya Mishra,Female,29,Aurangabad,Maharashtra,3,2,2,322,Potential Loyal
+CUST1189,2024-11-06,13,458476.13,56,Komal Pillai,Female,37,Khammam,Telangana,3,5,5,355,Loyal Customers
+CUST1190,2024-10-25,10,98327.85,68,Deepak Jain,Male,22,Vadodara,Gujarat,3,4,3,343,Loyal Customers
+CUST1191,2024-09-13,12,147042.79,110,Rohit Reddy,Male,33,Nagpur,Maharashtra,2,5,4,254,Loyal Customers
+CUST1192,2024-12-29,9,125116.36,3,Shweta Gupta,Female,18,Ujjain,Madhya Pradesh,5,4,4,544,VIP Customers
+CUST1193,2024-10-25,8,78192.18,68,Neha Srivastava,Female,25,Rohini,Delhi,3,3,3,333,Potential Loyal
+CUST1194,2024-07-27,13,204144.75999999998,158,Anita Reddy,Female,35,Kolkata,West Bengal,1,5,5,155,Loyal Customers
+CUST1195,2024-10-21,11,123172.01,72,Sneha Rao,Female,18,Udaipur,Rajasthan,3,5,4,354,Loyal Customers
+CUST1196,2024-10-20,8,87941.67,73,Anil Nair,Male,36,Bengaluru,Karnataka,3,3,3,333,Potential Loyal
+CUST1197,2024-11-03,7,28203.2,59,Anita Joshi,Female,31,Saket,Delhi,3,2,1,321,Lost Customers
+CUST1198,2024-12-29,8,249038.59000000003,3,Manoj Malhotra,Male,37,Mysuru,Karnataka,5,3,5,535,Potential Loyal
+CUST1199,2024-10-11,7,94454.92,82,Nisha Malhotra,Female,34,Agra,Uttar Pradesh,2,2,3,223,Lost Customers
+CUST1200,2024-12-21,7,218108.68,11,Arjun Malhotra,Male,45,Mysuru,Karnataka,5,2,5,525,Potential Loyal
